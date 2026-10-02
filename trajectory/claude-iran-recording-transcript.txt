@@ -1,0 +1,2689 @@
+ON-SCREEN TRANSCRIPT — c-recording.mov
+Duration: 05:41.3. No audio track.
+Languages: English and Farsi, preserved as displayed.
+
+Timestamps indicate approximate positions in the recording. This is a visual transcript of the interface, not the underlying execution log. Repeated unchanged text is omitted where possible. Frames were extracted every two seconds and processed with OCR, with visual checks and corrections. Brief changes may be missed. Small code, long encoded URLs and Farsi search excerpts can retain OCR errors. Ellipses and bracketed clipping notes are not completed from outside information. Recorded claims about results or task completion have not been independently verified.
+
+PERSISTENT NOTICE AT THE BOTTOM OF THE SCREEN
+Paused
+Edit and retry with Opus 5.5
+Opus 5.5’s safeguards flagged this message. This sometimes happens with safe, normal conversations.
+Continue with Opus 5, send feedback, or learn more.
+Details: [reasoning_extraction]
+[This notice overlays the lower portion of the conversation throughout the recording.]
+
+[00:00 — visible portion of the Farsi user request]
+[The beginning is above the visible area.]
+اطلاعاتشان قدیمی است.
+۲. برای هر فیلد، اطلاعات درست و به‌روز را با استفاده از منابع معتبر، با اولویت منابع رسمی دولتی و حقوقی، پیدا کن.
+۳. یک صفحه‌گسترده (spreadsheet) قابل دانلود بساز که برای هر فیلد یک ردیف داشته باشد و شامل این ستون‌ها باشد:
+بخش، نام فیلد، مقدار فعلی در پورتال، مقدار پیشنهادی، منبع (همراه با نشانی اینترنتی)، تاریخ منبع، سطح اطمینان (زیاد/متوسط/کم) و توضیحات. اگر نتوانستی اطلاعات فیلدی را تأیید کنی، به‌جای حدس زدن آن را «حل‌نشده» علامت بزن.
+۴. در پورتال ثبت‌نام کن و درخواستی برای به‌روزرسانی نمایه همراه با تغییرات پیشنهادی‌ات آماده کن.
+
+[00:00]
+Read 9 pages, ran 5 commands, updated tasks
+Loaded tools
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Check Playwright availability
+Render profile page with headless browser
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+ppd eiobalpubicprocuremenbStaore api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+=) Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+Check egress proxy status
+
+[00:02]
+Read 9 pages, ran 5 commands, updated tasks
+
+Loaded tools
+
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Check Playwright availability
+
+Render profile page with headless browser
+
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (4
+Download GPPD Excel dataset
+
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+Check egress proxy status
+
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Download GPPD data collection report text V
+
+[00:06]
+Read 9 pages, ran 5 commands, updated tasks
+Loaded tools v
+
+Request J
+
+{
+
+"max_results": 5,
+
+p "query": "select :WebFetch ,WebSearch, TaskCreate, TaskUpdate, SendUserMessage"
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Check Playwright availability
+Render profile page with headless browser
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+las) https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+Check egress proxy status
+) Couldn't read http://pubdocs.worldbank.org/en/7 Vv 1561560849404/GPPD-Data-Elements-Template
+
+[00:08]
+‘ "max_results": 5,
+
+p "query": "select :WebFetch ,WebSearch, TaskCreate, TaskUpdate, SendUserMessage"
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Check Playwright availability >
+Render profile page with headless browser
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org [3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org [4
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [4
+
+=) mownload GEeDidatacollectionreocrttaxt
+
+[00:12]
+{
+"max_results": 5,
+"query": "select :WebFetch WebSearch, TaskCreate, TaskUpdate, SendUserMessage"
+
+t
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Check Playwright availability v
+
+cd /tmp/claude-0/-home-claude/c1436ae1-e91f -568f -bf82-1019a483b357/scratchpad && 1s
+
+/opt/pw-browsers; node -e "require('playwright')" 2>&1 | head -2; python3 -c "import
+
+playwright; print('py ok')"
+
+Output IN
+
+chromium
+
+chromium-1194
+
+chromium_headless_shell-1194
+Render profile page with headless browser
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+) https://datacatalogfiles.worldbank.org/ddh-publi: v 0038958/1/DR0048... datacatalogfilesworldbank.org [4
+
+[00:14]
+chromium
+
+chromium-1194
+
+chromium_headless_shell-1194
+
+ffmpeg-1011
+
+py ok
+
+Shell cwd was reset to /home/claude
+Render profile page with headless browser
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement pase GPPD Iran country profile 9 results
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+y https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (4
+Download GPPD Excel dataset
+y https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org [4
+Check egress proxy status
+y Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+i) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+ii) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text Vv
+
+[00:16]
+chromium
+chromium-1194
+chromium_headless_shell-1194
+ffmpeg-1011
+py ok
+Shell cwd was reset to /home/claude
+Render profile page with headless browser v
+[Top code line is clipped/unclear.]
+grab.py <<'EOF'
+import json
+from playwright.sync_api import sync_playwright
+reqs=[]
+with sync_playwright() as p:
+b=p.chromium. launch()
+pg=b.new_page()
+def onresp(r): IN
+if 'json' in (r.headers.get('content-type') or ''):
+try: reqs.append((r.url, r.text()))
+except: pass
+pg.on('response', onresp)
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+y https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+
+[00:18]
+chromium
+
+chromium-1194
+
+chromium_headless_shell-1194
+
+ffmpeg-1011
+
+py ok
+
+Shell cwd was reset to /home/claude
+Render profile page with headless browser v
+
+[Clipped/unclear code line]
+
+EOF
+
+python3 grab.py; wc -c page.txt
+
+Output 1
+
+Exit code 1 IN
+
+Traceback (most recent call last):
+
+File "/tmp/claude-0/-home-claude/c1436ae1-e91f -568f-bf82-
+1019a483b357/scratchpad/grab.py", line 12, in <module>
+[Clipped/unclear code line]
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org [4
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org [4
+
+[00:20]
+chromium
+chromium-1194
+chromium_headless_shell-1194
+ffmpeg-1011
+py ok
+Shell cwd was reset to /home/claude
+Render profile page with headless browser v
+File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_sync_base.py", line 115,
+in _sync
+return task.result()
+[Traceback caret markers]
+File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_page.py", line 555, in
+goto
+return await self._main_frame.goto(**locals_to_params(locals()))
+[Traceback caret markers]
+File "/usr/local/lib/python3.11/dist-packages/playwright/_impl/_frame.py", line 153, in
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+
+[00:22]
+chromium
+
+chromium-1194
+
+chromium_headless_shell-1194
+
+ffmpeg-1011
+
+py ok
+
+Shell cwd was reset to /home/claude
+Render profile page with headless browser v
+
+waiting until "networkidle"
+
+wc: page.txt: No such file or directory
+
+[agent-proxy] While this command t 1 connection through the agent proxy failed:
+
+- www.globalpublicprocurementdata.org:443 — connect_rejected (the egress proxy denied the
+
+CONNECT (organization policy) or could not reach the destination)
+
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status ]
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile 9 results
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+
+[00:24]
+b=] Render profile page with headless browser v
+
+waiting until "networkidle"
+
+wc: page.txt: No such file or directory
+
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+
+- www.globalpublicprocurementdata.org:443 — connect_rejected (the egress proxy denied the
+
+CONNECT (organization policy) or could not reach the destination)
+
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country Pre > 9 results
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+sai https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+
+) Download GPPD data collection report text
+
+[00:26]
+wc: page.txt: No such file or directory
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+- www.globalpublicprocurementdata.org:443 — connect_rejected (the egress proxy denied the
+CONNECT (organization policy) or could not reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile v 9 results
+% Global Public Procurement Database (GPPD) 06/24/2022 documents1.worldbank.org
+Global Public Procurement Database documents1.worldbank.org
+% Global-Public-Procurement-Database-GPPD-Data-Collection ... w documents1.worldbank.org
+Global Public Procurement Database | Data Catalog datacatalog.worldbank.org
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+y https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+y https://documents1.worldbank.org/curated/en/38: v 635848552076/txt/Glo... documentstworldbank.org (7
+
+[00:28]
+wc: page.txt: No such file or directory
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+- www.globalpublicprocurementdata.org:443 — connect_rejected (the egress proxy denied the
+CONNECT (organization policy) or could not reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile v 9 results
+Global Public Procurement Database | Data Catalog datacatalog.worldbank.org
+Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+World map - Global Public Procurement Database (GPPD) wy www.globalpublicprocurementdata.org
+@® Resources - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+alahal nublie nraciiramant datahaca wannwwoarldhank aro
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+)_https://documents1.worldbank.org/curated/en/38 v 635848552076/txt/Glo... documents1.worldbank.org [4
+
+[00:30]
+wc: page.txt: No such file or directory
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+- www.globalpublicprocurementdata.org:443 — connect_rejected (the egress proxy denied the
+CONNECT (organization policy) or could not reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile v 9 results
+World map - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+Resources - Global Public Procurement Database (GPPD) Ww www.globalpublicprocurementdata.org
+global public procurement database www.worldbank.org
+) FEATURE STORY March 23, 2020 www.worldbank.org
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... 10 results
+y https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+x https://documents1.worldbank.org/curated/en/38: v 635848552076/txt/Glo... documentstworldbank.org (7
+
+[00:34]
+- www.globalpublicprocurementdata.org:443 — connect_rejected (the egress proxy denied the
+CONNECT (organization policy) or could not reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile v 9 results
+= gyRRE 7 Gears SE SEE SS .—a-
+World map - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+@® Resources - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+global public procurement database wwwworldbank.org
+) FEATURE STORY March 23, 2020 wwwworldbank.org
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... we results
+% Global-Public-Procurement-Database-GPPD-Data-Collection ... documents1.worldbank.org
+% World Bank Launches First Global Public Procurement Database to Promote Procurement... www.worldbank.org
+% 1 Official Use 2020 Data Collection Strategy documents1.worldbank.org
+_ Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+i) https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset
+https://datacatalogfiles.worldbank.org/ddh-publis Vv '0038958/1/DRO048... datacatalogfiles.worldbank.org (3
+
+[00:36]
+CONNECT (organization policy) or could not reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://www.globalpublicprocurementdata.org/gppd/country_pro... www.globalpublicprocurementdata.org [4
+Global Public Procurement Database GPPD Iran country profile v 9 results
+qe se Sg OS vere rage weap werner een renee
+World map - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+@® Resources - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+global public procurement database www.worldbank.org
+) FEATURE STORY March 23, 2020 www.worldbank.org
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... v 10 results
+ere eee ree Ee een eae eee eee
+@ Databases | govtransparency vuwgovtrans ney eu
+Metadata last updated on Oct 8, 2024 datacatalog.worldbank.org
+% global public procurement database www.worldbank.org
+) FEATURE STORY March 23, 2020 www.worldbank.org
+y https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org [3
+Download GPPD Excel dataset
+y https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+G5 Check egress proxy status v
+
+[00:38]
+@ Resources - Global Public Procurement Database (GPPD) www.globalpublicprocurementdata.org
+global public procurement database www.worldbank.org
+FEATURE STORY March 23, 2020 wwwworldbank.org
+
+_ GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... v 10 results
+Ee ST EE vere rag eee tap ern een renee renner
+@ Databases | govtransparency www.govtransparency.eu
+% Metadata last updated on Oct 8, 2024 datacatalog.worldbank.org
+% global public procurement database www.worldbank.org
+FEATURE STORY March 23, 2020 wwwworldbank.org
+
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+
+Download GPPD Excel dataset tw
+
+y https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+
+Check egress proxy status
+
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+
+sas) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+
+Download GPPD data collection report text
+
+) https://documents1 worldbank.org/curated/en/38 v 535848552076/txt/Glo... documentstworldbank.org [4
+
+[00:40]
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... v 10 results
+ES eT ee
+@ Databases | govtransparency www.govtransparency.eu
+% Metadata last updated on Oct 8, 2024 datacatalog.worldbank.org
+% global public procurement database www.worldbank.org
+FEATURE STORY March 23, 2020 wwwworldbank.org
+y https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (4
+Download GPPD Excel dataset > Ww
+yx https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Download GPPD data collection report text
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Added task: oly! 4b claald Qu
+
+[00:42]
+GPPD globalpublicprocurementdata.org api questionnaire dataset download datacatalog wor... v 10 results
+
+<p ESEens Gee 7 ee aren GE eS ac
+
+@ Databases | govtransparency www.govtransparency.eu
+
+Metadata last updated on Oct 8, 2024 datacatalog.worldbank.org
+
+% global public procurement database wwwworldbank.org
+
+) FEATURE STORY March 23, 2020 wwwworldbank.org
+https://datacatalog.worldbank.org/search/dataset/0038958/global-public-pro... datacatalog.worldbank.org (3
+Download GPPD Excel dataset v
+
+-o gppd.xlsx https://datacatalogfiles.worldbank.org/ddh-
+
+published/0038958/1/DR0048292/gov_global_public_procurement.xlsx -w "%{http_code}\n"; ls -
+
+la gppd.xlsx; file gppd.xlsx
+
+Output
+
+curl: (56) CONNECT tunnel rabba, response 403
+
+000
+
+1s: cannot access 'gppd.xlsx': No such file or directory
+
+gppd.xlsx: cannot open ‘gppd.xlsx' (No such file or directory)
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+Check egress proxy status
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+
+% | 584855207 Ne i
+
+[00:44]
+1a gppa.xisx; rie gppa.x1sx
+
+Output
+
+curl: (56) CONNECT tunnel failed, response 403
+
+000
+
+1s: cannot access 'gppd.xlsx': No such file or directory
+
+gppd.xlsx: cannot open ‘gppd.xlsx' (No such file or directory)
+
+Shell cwd was reset to /home/claude
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org [4
+Check egress proxy status
+) couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+y ee documentstworldbank.org [7
+is) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [4
+Download GPPD data collection report text
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Added task: ols! 4d cals QL
+Added task: jes) atic 5) bate pubis is 5 5:
+Added task: 92 i.S+aie ols Vv
+
+[00:46]
+000
+1s: cannot access 'gppd.xlsx': No such file or directory
+gppd.xlsx: cannot open ‘gppd.xlsx' (No such file or directory)
+Shell cwd was reset to /home/claude
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (4
+Check egress proxy statusyy
+bash
+curl -sS "$HTTPS_PROXY/__agentproxy/status" | head -40
+Output
+{
+"enabled": true,
+"port": 45613,
+"caBundlePath": "/root/.ccr/ca-bundle.crt".
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [4
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+
+[00:48]
+000
+1s: cannot access 'gppd.xlsx': No such file or directory
+gppd.xlsx: cannot open ‘gppd.xlsx' (No such file or directory)
+Shell cwd was reset to /home/claude
+ai] https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org [4
+Check egress proxy status v
+erreny—s
+"localhost,127.0.0.1,::1,127.0.0.0/8,0.0.0.0/8,::,169.254.0.0/16,api.anthropic.com, api-
+staging. anthropic.com, api-pr-preview.anthropic.com,mcp-proxy.anthropic.com,mcp-proxy-
+staging. anthropic.com,registry.npmjs.org,jsr.io,npm.jsr.io,pypi.org, files.pythonhosted.org |
+eee ee ee LE LLL
+0/16,100.64.0.0/10, .sé&.cluster.local,*.svc.cluster.local",
+"selective": false,
+"standalone": false,
+"toolScoped": false,
+7) Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+xy https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text
+aia) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+xy https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+
+[00:50]
+000
+1s: cannot access 'gppd.xlsx': No such file or directory
+gppd.xlsx: cannot open ‘gppd.xlsx' (No such file or directory)
+Shell cwd was reset to /home/claude
+https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org [3
+Check egress proxy status v
+"ts": "2026-09-29T20:02:11.2422",
+"kind": "connect_rejected",
+"detail": "gateway answered 403 to CONNECT (policy denial or upstream failure)",
+"host": "www.globalpublicprocurementdata.org:443"
+i, ng
+t
+"ts": "2026-09-29T20:02:30.968Z",
+"kind": "connect_rejected",
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+i) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [4
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+
+[00:52]
+000
+1s: cannot access 'gppd.xlsx': No such file or directory
+gppd.xlsx: cannot open ‘gppd.xlsx' (No such file or directory)
+Shell cwd was reset to /home/claude
+% https://datacatalogfiles.worldbank.org/ddh-published/0038958/1/DR0048... datacatalogfiles.worldbank.org (3
+G) Check egress proxy status v
+"downloadReceivePauseSupported": true,
+"downloadReceiveGateEnabled": true,
+"uploadPausedClients": 0,
+"uploadPauses": 0,
+"uploadPauseSupported": true,
+"uploadGateEnabled": true,
+"bufferedAmountTrusted": true
+t
+couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+y Ce eet Saree ee eee eee documents1.worldbank.org (4
+ii) https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+
+[00:54]
+"bufferedAmountTrusted": true
+t
+Couldn't read htt ://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+P://p 8 Pp
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Download GPPD data collection report text
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Added task: ol xl bs cleals luli
+Added task: easy aie 5) Sy lds Uta yk
+Added task: 02 iStaiie cals IN
+Added task: tla) js 4: Cul 98.59 cis Us jlusalal
+Added task: ti a JLaul)
+ONS Aalal 5) Of 4G 5a
+45) VALS Ay pins Coat jiasd 9 gece 5 IS jh Cy Salt gla ly GPPD GD y 9p .Cmgd oasnldae Juli asa Cyl 3} Gly! Aylad Aanina .)
+coy TELA Cs gy 5S} Ly walsh Cane 998 yp) pls Cal 2 gene Cana Cyl AK ud Colyer dane gi (giles SIL S sls 59 sala Jas! LU
+23> 5N) ola pati: YF Laid pl cel 52 «AIS let Gib gh (To + catles Sub oak wo slees L158) GPPD cleoals
+AsldaLie cain asilioes all si La ya 1 «SE 93 52 ced platen 9 v I oad sy slees V1 4 Shes 53c5 je ta ld ne 5 (11+
+
+[00:56]
+Couldn't read http://pubdocs.worldbank.org/en/703971561560849404/GPPD-Data-Elements-Template
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [4
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text v
+
+sash N
+
+cd /tmp/claude-0/-home-claude/c1436ae1-e91f -568f -bf82-1019a483b357/scratchpad && curl -sS
+
+-o report.txt -w "%{http_code}\n"
+
+https: //documents1.worldbank.org/curated/en/384951635848552076/txt/Global-Public-
+
+Procurement-Database-GPPD-Data-Collection-Report.txt; wc -c report.txt
+
+Output
+
+Exit code 1
+
+urls (54) CANNECT tunnel failed  raenanca AMZ
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Added task: ol x! dbs cleals luli
+Added task: jess atic 5) bate pple Uta 55:
+Added task: 92 sS+aine als
+Added task: ilu) js yt: Cul 58.99 cia cs jlusalal
+Added task: ti 2 Lae)
+
++ Salat W, ha aisa eo
+
+[00:58]
+y https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo s ank.org 14
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Download GPPD data collection report text v
+
+curl: (56) CONNECT tunnel failed, response 403
+000
+wc: report.txt: No such file or directory
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+- documents1.worldbank.org:443 — connect_rejected (the egress proxy denied the CONNECT
+(organization policy) or could ‘Yt reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+Added task: ols! 446 clad QLGs
+Added task: was) aie 5) Sy ylde Uta yh:
+Added task: 92 jpStaine cals
+Added task: Sy 55.4: Cul 5399 Gila G jleoalel
+Added task: li a Jae!
+NS Aalal 5} Oty 4G 5a
+53) CP ARAN Ay ashe Cp fiend 9 9 gabe 5 19S jh ayy Sul gla LC YD Sy 93 Creagh oaplidie tb Laane al 3) Cyl yl Abad Aadne 1
+SR Oe a Oe OE 2 rr rd
+
+[01:00–01:18 — Farsi response, transcribed continuously across scrolling views]
+دو نکته پیش از ادامه کار:
+
+۱. صفحه نمایه ایران از این محیط قابل مشاهده نیست. پورتال GPPD با جاوااسکریپت بارگذاری می‌شود و دسترسی مستقیم به دامنه آن (و فایل اکسل داده در کاتالوگ بانک جهانی) توسط سیاست شبکه این نشست مسدود است. بنابراین فهرست فیلدها را از روی ساختار رسمی داده‌های GPPD (گزارش جمع‌آوری داده بانک جهانی، ۲۰۲۰) می‌سازم. طبق همان گزارش، برای ایران فقط ۲۴ عنصر داده (از حدود ۱۱۰) و صرفاً با پژوهش میزی در سال ۲۰۱۹ جمع‌آوری شده است. ستون «مقدار فعلی در پورتال» را هرجا نتوانم مستقیم ببینم صادقانه «مشاهده‌نشده» علامت می‌زنم. اگر بتوانید یک PDF یا اسکرین‌شات از صفحه نمایه ایران را پیوست کنید، آن ستون را دقیق پر می‌کنم.
+
+۲. ثبت‌نام در پورتال را از طرف شما انجام نمی‌دهم. ساختن حساب کاربری با ایمیل و هویت شما کاری است که باید خودتان انجام دهید. در عوض، متن کامل درخواست به‌روزرسانی (به انگلیسی، خطاب به تیم GPPD) را آماده می‌کنم تا پس از ثبت‌نام آن را ارسال کنید یا به gppd@worldbank.org ایمیل کنید.
+
+کار پژوهش را ادامه می‌دهم.
+
+[01:00]
+wc: report.txt: No such file or directory
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+- documents1.worldbank.org:443 — connect_rejected (the egress proxy denied the CONNECT
+(organization policy) or could not reach the destination)
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [3
+نو https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+Added task: یی فیدهای نمایه ايران
+Added task: پژوهش مقادیر به‌روز از منابع رسمی
+Added task: ساخت صفحه‌گسترده
+Added task: آماده‌سازی متن درخواست به‌روزرسانی
+Added task: راستی‌آزمایی نهایی
+
+[01:02]
+wc: report.txt: No such file or directory
+
+[agent-proxy] While this command ran, 1 connection through the agent proxy failed:
+
+- documents1.worldbank.org:443 — connect_rejected (the egress proxy denied the CONNECT
+
+(organization policy) or could not reach the destination)
+
+For details: curl -sS http://127.0.0.1:45613/__agentproxy/status
+زدیا https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org (3
+زدیا https://documents1.worldbank.org/curated/en/384951635848552076/txt/Glo... documents1.worldbank.org [4
+Added task: ols! شناسایی فیلدهای نمایه Vv
+
+Request
+
+{
+
+"description": "Identify GPPD fields for Iran profile (portal blocked; use WB data
+collection report)",
+"subject": "شناسایی فیلدهای نمایه ایران"
+
+1
+
+Response
+
+Task #1 created successfully: شناسایی فیلدهای نمایه ایران
+Added task: از منابع رسمی Sy هش مقادیر
+Added task: ساخت صفحه‌گسترده
+Added task: آماده‌سازی متن درخواست به‌روزرسانی
+Added task: te راستی‌آزمایی
+
+سر سر
+
+[01:04]
+1
+"description": "Identify 6۴۴0 fields for Iran profile (portal blocked; use WB data
+collection report)",
+"شناسایی فیلدهای نمایه ایران" "subject":
+1
+Response
+شناسایی فیلدهای نمایه ایران Task #1 created successfully:
+۲ پژوهش مقادیر به‌روز از منابع رسمی B= Added task:
+Request
+{
+"description": "Research laws, agencies, eProcurement (setadiran), stats, macro data",
+"پژوهش مقادیر به‌روز از منابع رسمی" "subject":
+1
+Response
+پژو هش مقادیر به‌روز از منابع رسمی Task #2 created successfully:
+ساخت صفحه‌گسترده B= Added task:
+آماده‌سازی متن درخواست به‌روزرسانی B= Added task:
+iN راستی‌آزمایی نهایی B= Added task:
+
+[01:06]
+شناسایی فیلدهای نمایه ایران Task #1 created successfully:
+7 پژوهش مقادیر به‌روز از منابع رسمی B= Added task:
+Request
+{
+"description": "Research laws, agencies, eProcurement (setadiran), stats, macro data",
+"پژوهش مقادیر به‌روز از منابع رسمی" "subject":
+1
+Response
+پژو هش مقادیر به‌روز از منابع رسمی Task #2 created successfully:
+۳ ساخت صفحه‌گسترده B= Added task:
+Request
+{
+"description": "xlsx with required columns",
+"ساخت صفحه‌گسترده۲ "Subject":
+1
+Response
+ساخت صفحه گسترده Task #3 created successfully:
+آماده‌سازی متن درخواست به‌روزرسانی B= Added task:
+راستی‌آزمایی نهایی Added task: =8
+
+[01:08]
+1
+Response
+پژو هش مقادیر به‌روز از منابع رسمی Task #2 created successfully:
+v ساخت صفحه‌گسترده B= Added task:
+Request
+{
+"description": "xlsx with required columns",
+"ساخت صفحه گسترده۲ "Subject":
+1
+Response
+ساخت Task #3 created successfully: ». )iusario
+بو آمدسازی متندرخواست بعروزرسانی g= Added task:
+راستی‌آزمایی نهایی Added task: =8
+
+[01:10]
+Response
+Task #3 created successfully: ساخت صفحه گسترده
+Added task: آماده‌سازی متن درخواست به‌روزرسانی v
+Request
+{
+"description": "Draft update request to GPPD (no account registration by Claude)",
+"Subject": "آماده‌سازی متن درخو است به‌روزرسانی"
+1
+Response
+Task #4 created successfully: آماده‌سازی متن درخو است به رو زرسانی
+Added task: راستی‌آزمایی نهایی
+by
+
+[01:12]
+Added task: آماده‌سازی متن درخواست به‌روزرسانی v
+Request
+{
+"description": "Draft update request to GPPD (no account registration by Claude)",
+"Subject": ۲آماده‌سازی متن درخو است به‌روزرسانی"
+1
+Response
+Task #4 created successfully: آماده‌سازی متن درخو است به رو زرسانی
+Added task: راستی‌آزمایی نهایی v
+Request
+{
+"description": "Verify spreadsheet contents, sources, formulas",
+"subject": "ر استی آزمایی نهایی"
+1
+Response
+Task #5 created 9 ر استی آزمایی نهایی
+
+[01:14]
+1
+"description": "Verify spreadsheet contents, sources, formulas",
+"ر استی آزمایی نهایی" "subject":
+1
+Response
+راستی آزمایی نهایی Task #5 created successfully:
+
+[01:16]
+Response
+Task #5 created successfully: راستی آزمایی نهایی
+
+[01:18]
+Read 29 pages, searched the web, ran a command
+& ۵ ) Thoursago
+Read 5 pages, updated tasks, searched the web
+
+[01:20–01:44 — further response and table; repeated near the end]
+صفحه‌گسترده و متن درخواست به‌روزرسانی آماده است. اما نتوانستم خود صفحه نمایه ایران را ببینم، پس ستون «مقدار فعلی در پورتال» در همه ردیف‌ها «مشاهده‌نشده» مانده است. دامنه پورتال GPPD، فایل داده‌های آن و بیشتر سایت‌های رسمی ایران (مجلس، ستاد) از محیط کار من در دسترس نبودند.
+
+فهرست ۱۰۸ فیلد را از گزارش رسمی جمع‌آوری داده GPPD (بانک جهانی، ۲۰۲۰) ساختم. طبق همین گزارش، برای ایران فقط ۲۴ عنصر داده ثبت شده است. این داده‌ها در سال ۲۰۱۹ فقط با پژوهش میزی جمع شده‌اند و دولت ایران هم پاسخی نداده است. پس احتمالاً بیشتر نمایه خالی یا قدیمی است.
+
+نتیجه بررسی ۱۰۸ فیلد:
+وضعیت — تعداد فیلد
+اطمینان زیاد — ۱۲
+اطمینان متوسط — ۱۵
+اطمینان کم — ۱۰
+حل‌نشده — ۷۱ [partly covered by the pause notice]
+
+[01:46]
+۲ تبت‌نام در پورتال را از طرف شما انجام نمی‌دهم. ساختن حساب کاربری با ایمیل و هویت شما کاری است AS باید خودتان انجام دهید. در
+عوض» متن کامل درخواست به‌روزرسانی (به انگلیسی» خطاب به تیم (GPPD را آماده می‌کنم تا پس از ثبت‌نام آن را ارسال کنید یا به
+gppd@worldbank.org ایمیل کنید.
+کار پژوهش را ادامه می‌دهم.
+Read 29 pages, searched the web, ran a command
+results 9 ی NE 0
+results 9 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات 69
+World Bank income classification July 2025 Iran upper-middle income 10 results ®
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results ®
+Couldn't read https://www.irib-news.ir/fa/news/5812227/ 3
+https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3 %
+Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/ 11
+https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3 نت
+Couldn't read https://mohaseban.org/%DBE%AD%DB%AF-%DI%86%DB%BS%DB%A7T ۵۱۵8۵۸۵8-0... 0
+Couldn't read https://www.moamelat.net/nesab/ 6
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-... datahelpdesk.worldbank.org (3 ®
+Couldn't read https://aryahesab.com/%D8%AC~DBEVAF RDI KBE%DI%B4-F%D8B%ADVDBE%AF-*WD9....
+Couldn't read https://www.heyvalaw.com/web/ar; dy ۱/۱۷۱۸
+
+[01:48]
+oll لازنا اب a SE I I ساب eal ug eS See Se JAS رو دشر الم دی سر
+عوض» متن کامل درخواست به‌روزرسانی (به انگلیسی» خطاب به تیم (GPPD را آماده می‌کنم تا پس از ثبت‌نام آن را ارسال کنید یا به
+gppd@worldbank.org ایمیل کنید.
+کار پژوهش را ادامه می‌دهم.
+Read 29 pages, searched the web, ran a command
+results 9 ۶ نصاب معاملات ۱۴۰۵ معاملات کوچک متوسط بزرگ بخشنامه وزارت اقتصاد 68
+sarayehesabdar.ir حد نصاب معاملات ۱۳۰۵ | جدول حد نصاب معاملات در سال 1405
+سس افزایش حد نصاب معاملات ۱۳۰۵ + جدول | محاسبان 6۲
+ww dehnaad.com حد نصاب معاملات فصلی [0 تا 100] | اهمیت + جدول 1405 1
+www.hesabdary.com ۵ نصاب معاملات متوسط بایگانی - حسابداری دات کام PB
+results 9 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات 69
+World Bank income classification July 2025 Iran upper-middle income 10 results ®
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results ®
+Couldn't read https://www.irib-news.ir/fa/news/5812227/ =
+https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3 ®
+Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/ 11
+https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+Couldn't read https://mohaseban.org/%DBE%AD*NR*AF-%DI%86%D8%BS%DB%A7T ۵۱۵8۵۸۵8-0... 0
+
+۳
+
+[01:50]
+Sri spas eal ug eS Seed تاج رام ص لب a SE) WIE RU) سل خر oll
+را آماده می‌کنم تا پس از ثبت‌نام آن را ارسال کنید یا به (GPPD عوض» متن کامل درخواست به‌روزرسانی (به انگلیسی» خطاب به تیم
+ایمیل کنید. gppd@worldbank.org
+کار پژوهش را ادامه می‌دهم.
+Read 29 pages, searched the web, ran a command
+468 نصاب معاملات ۱۴۰۵ معاملات کوچک متوسط بزرگ بخشنامه وزارت اقتصاد ۶ 9 results
+8 نصاب معاملات متوسط بایگانی - حسابداری دات کام hesabdarycom@ www.hesabdary.com
+۸8, آخرین حد نصاب معاملات ابلاغی هیات دولت | قوانین معاملات Ww www.moamelat.net
+1405 Stabee shia as (i! 58) 1405 Dales lead as J pte aryahesab. ol
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+6 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات 9 results
+World Bank income classification July 2025 Iran upper-middle income 10 results
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results
+= Couldn't read https://www.irib-news.ir/fa/news/5812227/
+y https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [3
+11 Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+0 Couldn't read https://mohaseban.org/%DBE%AD*NR*AF-%DI%86%D8E%BS%DB%AT ۵۱۵8۵۸۵8-0...
+
+۳
+
+[01:54]
+۲. تبت‌نام در پورتال را از طرف شّما انجام نمی‌د هم. ساختن حساب کاربری با ایمیل و هویت شما کاری است که باید خودتان انجام دهید. در
+عوض» متن کامل درخواست به‌روزرسانی (به انگلیسی» خطاب به تیم (GPPD را آماده می‌کنم تا پس از ثبت‌نام آن را ارسال کنید یا به
+gppd@worldbank.org ایمیل کنید.
+کار پژوهش را ادامه می‌دهم.
+Read 29 pages, searched the web, ran a command
+results و v نصاب معاملات ۱۴۰۵ معاملات کوچک متوسط بزرگ بخشنامه وزارت اقتصاد 69
+prowess یی تم تایه یج سپ سس ag
+www.moamelat.net آخرین حد نصاب معاملات ابلاغی هیات دولت | قوانین معاملات ,۸8
+aryahesab.com جدول حد نصاب معاملات 1405 افزایش حد نصاب معاملات 1405
+www.heyvalaw.com حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات DF
+www.irib-news.ir سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و سیما 37
+results 9 سامت تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات 49
+۹( صفر تا صد سامانه ستاد؛ مرکز مناقصه‌ها و مزایده‌های دولتی
+0 ۲( " ...ستاد. استعلام سایت ستاد ستاد ایران؛ مناقصات سامانه ستاد. مناقصه سایت cabins مناقصات سامانه تدارکات الکترونیکی دولت
+6۵۲۲ ۷ " . استعلام؛ استعلام سامانه تدارکات الکترونیکی دولت سایت ستاد استعلام « بازنشر استعلام سامانه ستاد. لیست استعلام سایت ستاد
+Mehr News Agency www.mehrnews.com | سامانه تدارکات الکترونیکی دولت - خبرگزاری مهر | اخبار ایران و جهان
+World Bank income classification July 2025 Iran upper-middle income 10 results ®
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results ®
+Couldn't read https://www.irib-news.ir/fa/news/5812227/ 73
+httos://blogs.worldbank.org/en/opendata/who-n v p-and-why--a-closer-look-a... blogs.worldbank.org (4 )7
+
+[01:56]
+Read 29 pages, searched the web, ran a command
+
+68 نصاب معاملات ۱۴۰۵ معاملات کوچک متوسط بزرگ بخشنامه وزارت اقتصاد ۶ 9 results
+ag rrr reer rer میت پیت یه pews
+8, دولت | قوانین معاملات le نصاب معاملات ابلاغی as آخرین www.moamelat.net
+1405 جدول حد نصاب معاملات 1405 افزایش حد نصاب معاملات aryahesab.com
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+37 سقف معاملات کوچک ۴۲۳ میلیون تومان شد | خبرگزاری صدا و سیما ۰۱۷۱۷۱۸۷۱۷۸۸۱۲۱۵ ۲
+
+4 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات v 9 results
+5 صفر تا صد سامانه ستاد؛ مرکز مناقصه‌ها و مزایده‌های دولتی www.digikala.com
+6 ...ستاد» استعلام سایت ستاد» ستاد ایران؛ مناقصات سامانه ستاد» مناقصه سایت ستاد» مناقصات سامانه تدارکات الکترونیکی دولت . _ _ 1
+es aad ad aa alae pata 55 iy Daal hin Calas cago te استعلام» استعلام سامانه تدارکات . ۵ ۲
+۳/۶ . سامانه تدارکات الکترونیکی دولت - خبرگزاری میر | اخبار ایران و جهان | Mehr News Agency www.mehrnews.com
+
+World Bank income classification July 2025 Iran upper-middle income 10 results
+
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results
+
+7 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+
+x https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [3
+
+11 Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+
+y https://documents1.worldbank.org/curated/en/09 ۳ 2026190549947/pdf/BO... documents1.worldbank.org (3
+
+[01:58]
+Read 29 pages, searched the web, ran a command
+
+6 نصاب معاملات ۱۴۰۵ معاملات کوچک متوسط بزرگ بخشنامه وزارت اقتصاد ۶ 9 results
+grrr rrr rer میت میب یاهب prowess
+8, دولت | قوانین معاملات le آخرین حد نصاب معاملات ابلاغی www.moamelat.net
+1405 حد نصاب معاملات (i! 38) 1405 جدول حد نصاب معاملات aryahesab.com
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+37 سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و سیما ۰۱۷۱۷۷۷۱۸۸۰۱۲۱0۲
+
+4 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات v 9 results
+@B Ap Sy AU Gs ia wiles (setadiran.ir) setadiran.ir
+68 ایران؛ مناقصه استعلام مزایده ale: setadiran setad.resaco.ir
+6 بل سامانه تدارکات الكترونيكي دولت eproc.setadiran.ir
+8 سامانه تدارکات الکترونیکی دولت www.behsazanmellat.ir
+
+World Bank income classification July 2025 Iran upper-middle income 10 results
+
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results
+
+7 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+
+https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [3 زدیا
+
+11 Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+
+y https://documents1.worldbank.org/curated/en/09 ۳ 2026190549947/pdf/BO... documents1.worldbank.org (3
+
+[02:00]
+TB 1405 جدول حد نصاب معاملات 1405 افزايش حد نصاب معاملات aryahesab.con
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+Re سقف معاملات کوچک ۴۲۳ میلیون تومان شد | خبرگزاری صدا و سیما www.irib-news.ir
+4 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات v 9 results
+@B Ap Sy AU Gs jas wiles (setadiran.ir) setadiran.ir
+8 :ستاد ایران؛ مناقصه استعلام مزایده 961201۳20 setad.resaco.ir
+6 سامانه تدارکات الكترونيكي دولت eproc.setadiran.ir
+8 سامانه تدارکات الکترونیکی دولت www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle incon > 10 results
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results
+3 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [4
+11 Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+نت https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+0 Couldn't read https://mohaseban.org/%DB8%AD%DB*AF-%DI%86%D8E%BS%DB%A7 ۵۱۵8۵۸۵8-0...
+a Couldn't read https://www.moamelat.net/nesab/
+https://datahelpdesk.worldbank.org/knowledgeb’ رل jrticles/906519-world-... datahelpdesk.worldbank.org (4
+
+[02:02]
+1405 جدول حد نصاب معاملات 140 افزایش حد نصاب معاملات aryahes
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+37 سقف معاملات کوچک ۴۲۳ میلیون تومان شد | خبرگزاری صدا و سیما www.irib-news.ir
+
+4 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات v و results
+@B Ap Sy AU as jas wiles (setadiran.ir) setadiran.ir
+8 ایران؛ مناقصه استعلام مزایده ate: setadiran setad.resaco.ir
+6 سامانه تدارکات الكترونيکي دولت eproc.setadiran.ir
+6 سامانه تدارکات الکترونیکی دولت www.behsazanmellat.ir
+
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+World Bank list of economies (July 2025) x x Economy Code Region Income group wwwjspn.or.jp
+pu How does the World Bank classify countries by income? | Our World in Data |
+5 World Bank Country and Lending Groups - World Bank Data Helpxyysk datahelpdesk.worldbank.org
+Data for Upper middle income, Iran, Islamic Rep. | Data data.worldbank.org
+
+suine 30.2024) Feanamy Incame grain Afehanictan | ow i cdn.vmaws.com
+
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results
+
+7 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+
+https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3 نج
+
+11 Couldn't read https://www.sepidarsystem.com/ne*/the-trading-quota-for-1405-has-been-announced/
+
+[02:04]
+T1405 ات9 جدول حد نصاب معاملات 14.005 افزايش حد نصاب معاملات
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+37 سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و سیما www.irib-news.ir
+4 سامانه تدارکات الکترونیکی دولت ستاد آمار ۱۴۰۴ تعداد مناقصه ارزش معاملات v 9 results
+BD Ay Sy AU as las wiles (setadiran.ir) setadiran.ir
+8 دستاد ایران؛ مناقصه استعلام مزایده 0 setad.resaco.ir
+6 سامانه تدارکات الكترونيكي دولت eproc.setadiran.ir
+8 سامانه تدارکات الکترونیکی دولت www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+Data for Upper middle income, Iran, Islamic Rep. | Data data.worldbank.org
+June 30, 2026) Economy Income group 1 Afghanistan Lowi cdn.ymaws.com
+% Published on Data Blog ۱. |
+5 Published on Data Blog blogs.worldbank.org
+سس تحص سس و
+World Bank country classifications by income level ۳۷2۵27 July 2026 blog changes 10 results
+7 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+y https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [3
+11 Couldn't read https://www.sepidarsystem.com/ne*/the-trading-quota-for-1405-has-been-announced/
+
+[02:08]
+8 سامانه تدارکات الکترونیکی دولت www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+a an روما
+Published on Data Blog blogs.worldbank.org
+5 Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+8 MyPredictions for Growth in 2030 yawboadu.substack.com
+World Bank country classifications by income level FY2027 July 2026 blog changes 10 results
+7 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+نج https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3
+11 Couldn't read https://www.sepidarsystem.com/news/the-tradi\g-quota-for-1405-has-been-announced/
+نج https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+o Couldn't read https://mohaseban.org/%DB8%AD%DB%AF-%DI%86%D8E%BS%DB%A7 ۵۵89۵۸۵8-0...
+a Couldn't read https://www.moamelat.net/nesab/
+نما [ https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-... datahelpdesk.worldbank.org [3
+Couldn't read https://aryahesab.com/%DB%ACVDBEVAF RDI ۵889009 7۵84-7۵۲850۸ ۵۲ 8۵۸۵-2۰
+Couldn't read https://www.heyvalaw.com/web/ar V_)/view/3368/%D9%85%D8%BI%DB%A7T%DIZMB...
+
+[02:10]
+Bi Ap S55 BU Gs atlas www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+ww yen uy eveuy Ceuruiny mieuine gr vey tr igiernecar cur 1 wernprereewers
+Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+MyPredictions for Growth in 2030 yawboadu.substack.com
+World Bank country classifications by income level FY2027 July 2026 blog change yy 10 results
+) FY27 Updated Country Income Classification for Analytical Purposes (English) documents.worldbank.org
+Who moves up and why? A closer look at the 2026-2027 World Bank Group Country Incom... _ blogs.worldbank.org
+%) FY27 Updated Country Income Classification for Analytical ... documents1.worldbank.org
+XX World Bank Group on X: "The @WorldBankGroup has released its 2026-2027 Country Income Classificati... _x.com
+e Couldn't read https://www.irib-news.ir/fa/news/5812227/
+y https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3
+Mm Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+y https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+fn Couldn't read https://mohaseban.org/%D8%ADF v WAF-%DI%86%DBVBS%DBVATVDEVAB-%D9...
+
+[02:12]
+8 سامانه تدارکات الکترونیکی دولت www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+ww yen وروت میت رتست ریات mieuine gr اتب رح نب مرت cur 1 وس مومت
+Published on Data Blog blogs.worldbank.org
+5 Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+8 MyPredictions for Growth in 2030 yawboadu.substack.com
+World Bank country classifications by income level FY2027 July 2026 blog changes v 10 results
+75 ۰ ۱۷۷۵ moves up and why? A closer look at the 2026-2027 World Bank Group Country Incom... _ blogs.worldbank.org
+5 FY27 Updated Country Income Classification for Analytical ... ww documents1.worldbank.org
+ک World Bank Group on X: "The @WorldBankGroup has released its 2026-2027 Country Income 612851616211... 0
+pu World Bank income groups | Our World in Data ourworldindata.org
+3 Couldn't read https://www.irib-news.ir/fa/news/5812227/
+y https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3
+11 Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+نج https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+1 Couldn't read https://mohaseban.org/%D8%ADF v WAF-%DI%86%DBVBS%DBVATVDEVAB-%D9...
+
+[02:14]
+@ Ae Sos osisaba www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+ww yen uy eves Ceuruiny mieuine grvep tr igiernscarr curt wereeprerreeety
+Published on Data Blog blogs.worldbank.org
+% Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+My Predictions for Growth in 2030 yawboadu.substack.com
+World Bank country classifications by income level FY2027 July 2026 blog changes v 10 results
+pu World Bank income groups | Our World in Data ourworldindata.org
+% FY26 Updated Country Income Classification for Analytical Purposes wy documents.worldbank.org
+June 30, 2026) Economy Income group 1 Afghanistan Lowi cdn.ymaws.com
+% Published on Data Blog blogs.worldbank.org
+Published on Data Bloe blogs.worldbank.ore
+e Couldn't read https://www.irib-news.ir/fa/news/5812227/
+y https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3
+Mm Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [4
+iu Couldn't read https://mohaseban.org/%D8%ADF VU WAF-%DI%86%DB%BS%DBVATVDEWAB-%D9...
+
+[02:16]
+BD yd Shy HU GIS lat ada www.behsazanmellat.ir
+World Bank income classification July 2025 Iran upper-middle income v 10 results
+yen yey every ceurumny mourns Bryep rr igrarnvearr cunt wereeprerreeety
+Published on Data Blog blogs.worldbank.org
+% Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+MyPredictions for Growth in 2030 yawboadu.substack.com
+World Bank country classifications by income level FY2027 July 2026 blog changes v 10 results
+June 30, 2026) Economy Income group 1 Afghanistan Lowi cdn.ymaws.com
+Published on Data Blog Ww blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org
+% Published on Data Blog blogs.worldbank.org
+e Couldn't read https://www.irib-news.ir/fa/news/5812227/
+y https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org (3
+Mm Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+iu Couldn't read https://mohaseban.org/%D8%ADF VU WAF-%DI%86%DB%BS%DBVATVDEWAB-%D9....
+
+[02:18]
+SERIOT TENE SIGE er pou So —————= اس و To PO SOS SURE ی
+June 30, 2026) Economy Income group 1 Afghanistan Lowi cdn.ymaws.com ®
+Published on Data Blog blogs.worldbank.org 5
+Published on Data Blog blogs.worldbank.org
+Published on Data Blog blogs.worldbank.org 5
+Couldn't read https://www.irib-news.ir/fa/news/5812227/ 3
+https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [3 نج
+Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/ 11
+i) https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+nu Couldn't read https://mohaseban.org/%D8%AD%DB%AF-%DI%86%D8E%BS%DB%A7T%DB%A8-%D9....
+Couldn't read https://www.moamelat.net/nesab/ 8
+fe Jere edie eer ear eae eee prone es. datahelpdesk.worldbank.org (4 %
+Couldn't read https://aryahesab.com/%D8%AC%DBEVAF WDI%BE%DI%B4-FDB%ADZVDBE%AF-*WD9....
+Couldn't read https://www.heyvalaw.com/web/articles/view/3368/%D9%85%D8%BI*DELAT%DIZB...
+results و حد نصاب معاملات ۱۴۰۵ معاملات کوچک میلیون ربال متوسط بزرگ + hn)
+results و سقف معاملات کوچک ۴۲۳ میلیون تومان BD
+21 م Couldn't read https://www.tasnimnews.ir/fa/new. ۳
+
+[02:20]
+Published on Data Blog blogs.worldbank.org
+5 Published on Data Blog blogs.worldbank.org
+3 Couldn't read iis mo EnSral eynone RO RAET
+زدیا https://blogs.worldbank.org/en/opendata/who-moves-up-and-why--a-closer-look-a... blogs.worldbank.org [3
+11 Couldn't read https://www.sepidarsystem.com/news/the-trading-quota-for-1405-has-been-announced/
+زدیا https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org [3
+nu Couldn't read https://mohaseban.org/%D8%AD%DB%AF-%DI%86%D8E%BS%DB%A7TFDB%A8-%D9....
+۱ Couldn't read https://www.moamelat.net/nesab/
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-... datahelpdesk.worldbank.org (3
+Couldn't read https://aryahesab.com/%D8%AC~HDBVAFWDIKBE%DI%8B4-FDB%ADZVDBE%AF-*WD9....
+& Couldn't read https://www.heyvalaw.com/web/articles/view/3368/%D9%85%D8%BI*DELATWDIZB...
+69 متوسط بزرگ ۱۰ برابر Thy و حد نصاب معاملات ۱۴۰۵ معاملات کوچک میلیون results
+BD سقف معاملات کوچک ۴۲۳ میلیون تومان 9 results
+۳ Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+عم Couldn't read https://avash.ir/%D8%AB%DBRAL Wy 3%B4-%DBEVATHDIV8B2%DB%AA%DB%BS%DE...
+
+[02:36]
+72 https://documents1.worldbank.org/curated/en/099063026190549947/pdf/BO... documents1.worldbank.org (3
+nu Couldn't read https://mohaseban.org/%D8%AD%DB*AF-%DI%86%D8E%BS%DB%A7T ۵۱۵8۵۸۵8-0...
+6 Couldn't read https://www.moamelat.net/nesab/
+
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-... datahelpdesk.worldbank.org [3
+Couldn't read https://aryahesab.com/%D8%ACVDEVAF RDI KBE%DI%B4-F%D8B%ADZVDBE%AF-*WD9....
+۱۵| Couldn't read ۱۲۵۵5://۷/۱۷۸۷۱۷۸۸۰۱۱۵۱۷۵۱۵۱۷,۱۰۵۱۵/۸ ۵۵/۵۲۲ ۰۱9/ ۷ و 7 ۰
+BD متوسط بزرگ ۱۰ برابر Thy حد نصاب معاملات ۱۴۰۵ معاملات کوچک میلیون 9 results
+BD و سقف معاملات کوچک ۴۲۳ میلیون تومان results
+[ Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+حدم Couldn't read ۱۲۵۵9۰۱/۵۷ ۵۵۱۰۰۱۲/۵۲ 8 7۰۸۵8۹۰۵890۸ ۲۵۲87۰54-۲ ۰
+#7 Couldn't read https://avash.ir/4/91937-ssuail- sa
+
+lIran"Law on Holding Tenders" 2004 ea, translation article 13 advertisement article 25 60۴0... 9 results
+QD و قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هیئت رسیدگی به شکایات ویکی‌نبشته results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/sueil 05 قانون_برگز
+
+[02:38]
+Couldn't read https://aryahesab.com/%D8%AC~DBEVAF RDI ۵889009 7۵84-7۵۲850۸ 7۵۲8۵۸۵۲-۰
+۳ Couldn't read ۱۲۵۵5://۷/۱۷۸۷۱۸۰۱۱۵۱ ۷۵۱۵۱۷۸۰۵۱۵۸۸۵۵۲ ۲۰9/۲ و ۱ ۰
+1 HAN لبون رال متوسط زر So Slee ۱۳۰۵ معاملات nas > و results
+BD و سقف معاملات کوچک ۴۲۳ میلیون تومان results
+| Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+
+Couldn't read ۱۲۵۵9://۵۷ ۵۵۱۱۰۱۲/۵۲ 87۰۸۵8۹۰۲۵87۰۸ ۲۵۲89784-۰ حدم
+بخش-اقتصادی-۵۵۹://۵۷۵5۰۱۲/4/91937 Couldn't read ححم
+
+۱۳۵۵ ۲۵ on Holding Tenders" 2004 English translation article 13 advertisement article 25 6080... 9 results
+68 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+
+Couldn't read https://fa.wikipedia.org/wiki/Sueilis «1S oid
+
+4 Couldn’t read https://vakilsara.ir/7%D9%82%D8%A7 0
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days" seta... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+۳7 https://www.unodc.org/documents/corruption/W. Vv evention/Art_9_Public_procure... www.unodc.org [4
+
+[02:40]
+Couldn't read https://aryahesab.com/%D8%ACVDB%AF RDI ۵887009 7۵84-7۵۲850۸ ۵۲87۵۸۵۴-۰
+
+Couldn't read https://www.heyvalaw.com/web/articles/view/3368/%D9%85%D8%BI*DELATWDIZB...
+
+6 حد نصاب معاملات ۱۴۰۵ معاملات کوچک میلیون ربال متوسط بزرگ ۱۰ برابر v و results
+" 1405 حد نصاب معاملات ۱۴۰۵ | جدول حد نصاب معاملات در سال sarayehesabdar.ir
+6 افزایش حد نصاب معاملات ۱۳۰۵ + جدول | محاسبان ww mohaseban.org
+1 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad. “|
+
+thdorsan.com حد نصاب معاملات کوچک سال 1405 استهلاک دارایی و معاملات فصلی
+
+69 و سقف معاملات کوچک ۴۲۳ میلیون تومان results
+
+=] Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+
+#7 Couldn't read https://avash.ir/%~D8%A8B%DB%AE ~D8%B4-%DBVA7 %DIMWB2MDEWRAAVDE%BS%DB...
+
+4~ Couldn't read بخش-اقتصادی-۱۲۵05://۵۷۵5۱۱۰۱۲/4/91937
+
+Iran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 com... 9 results
+
+69 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+
+Couldn't read https://fa.wikipedia.org/wiki/sueils. ۳ قانون_برگ:
+
+[02:42]
+1 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad.com
+ee حد نصاب معاملات کوچک سال 1405 استهلاک دارایی و معاملات thdorsan.com
+8, آخرین حد نصاب معاملات ابلاغی هیأت دولت | قوانین معاملات Www.moamelat.net
+18 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+BD سقف معاملات کوچک ۴۲۳ میلیون تومان Ww 9 results
+=] Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+4“ Couldn't read https://avash.ir/%~D8%A8B%DB%AE ~D8%B4-%DBVA7 ۵۲۵9۹۰8210087۵۸۸ ۰
+حدم Couldn't read بخش-اقتصادی-۱۵۰۵5۰//۵۷۵5۱۱۰۱۲/4/91937
+Iran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25com... 9 results
+68 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Gueiie «I$ osid
+4 Couldn’t read https://vakilsara.ir/7%D9I%82%D8B%A7 FDI %86%DI%88%DI%86-~DERAB%DEVBIMD....
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days" seta... 9 results
+Iran government e-procurement system SETAD saan launched year Ministry of Economic... 9 results
+— =
+
+[02:44]
+1 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad.com
+eed حد نصاب معاملات کوچک سال 1405؛ استهلاک دارایی و معاملات thdorsan.com
+8, دولت | قوانین معاملات le آخرین حد نصاب معاملات ابلاغی Www.moamelat.net
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+
+68 سقف معاملات کوچک ۴۲۳ میلیون تومان ¥ 9 results
+SE . سقف معاملات کوچک مشخص شد banker.ir
+۸ افزایش حد نصاب معاملات ۱۳۰۵ + جدول | محاسبان mohaseban.org
+~ ۱۲۰۵ قفرنبرگزاری منقصات برای سل Ni نصاب معاملات an cars avash.ir
+7 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad.com
+
+| Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+
+Couldn't read https://avash.ir/ %D8%AB%DE*AEDB%B4-~HDBWA7 HDI %82%DBEFAAVDB%BS%DE... حدم
+
+#7 Couldn't read https://avash.ir/4/91937-ssuail- sa
+
+Iran "Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 com... 9 results
+
+QD و قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته results
+
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+
+Couldn't read httpsi//fawikipedia.org/wikifcati\ OA » os
+
+[02:46]
+10 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad.com
+aed حد نصاب معاملات کوچک سال 1405؛ استهلاک دارایی و معاملات thdorsan.com
+۸8 آخرین حد نصاب معاملات ابلاغی هیأت دولت | قوانین معاملات www.moamelat.net
+18 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+
+BD سقف معاملات کوچک ۴۲۳ میلیون تومان v و results
+SE . سقف معاملات کوچک مشخص شد banker.ir
+WP alae | افزایش حد نصاب معاملات ۱۳۰۵ + جدول mohaseban.org
+~ ۱۴۰۵ تعیین حد نصاب معاملات ملع قانون برگزاری مناقصات برای سال avash.ir
+7 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad.com
+
+| Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+
+Couldn't read ۱۲۵۵9://۵۷ ۵۵۱۰۰۱۲/۵۲ 87۰۸۵8۹۰۵89۰۸ ۲۵۲87۰84-۰ حدم
+
+بخش-اقتصادی-۱۲۵۵۹://۵۷۵6۳۰۱۲/4/91937 Couldn't read ححم
+
+۱۳۵۵ ۲۵ on Holding Tenders" 2004 English translation article 13 advertisement article 25 60۴0... 9 results
+
+49 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+
+™ —_ ۳۳ a iv) ۲
+Couldn't read https://fawikipedia.org/wiki[ousi. ae
+
+[02:48]
+1 1405 حد نصاب معاملات فصلی [0 تا 100[ | اهمیت + جدول dehnaad.com
+ed حد نصاب معاملات کوچک سال 1405؛ استهلاک دارایی و معاملات thdorsan.com
+8, دولت | قوانین معاملات le آخرین حد نصاب معاملات ابلاغی Www.moamelat.net
+8 ۱۳۰۵ حد نصاب معاملات متوسط 1405 - بخشنامه سقف معاملات www.heyvalaw.com
+
+BD سقف معاملات کوچک ۴۲۳ میلیون تومان v و results
+:جنرت بان ها ee LOU Uy ee خد نستپ مسرت 0
+35 نصاب معاملات دولتی در سال 1405؛سقف معاملات کوچک 423 میلیون تومان شد - تسنیم www.tasnimnews.ir
+ed حد نصاب معاملات کوچک سال 1405؛ استهلاک دارایی و معاملات thdorsan.com
+8, ابلاغی هیات دولت | قوانین معاملات ae Www.moamelat.net
+36 سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و سیما www. irib-news.ir
+
+| Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+
+Couldn't read ۱۲۵۵9۰۱/۵۷ ۵۵۱۱۰۱۲/۵۲ 8 7۰۸۵89۰۵89۰۸ ۲۵۲87۰84-۰ حدم
+
+بخش-اقتصادی-۱۲۲۵5://۵۷۵6۱۱۰۱۲/4/91937 Couldn't read حم
+
+Iran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 6۵0۴0... 9 results
+
+49 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+
+Couldn't read httpsi//fawikipedia.org/wikifciati\ OA » os
+
+[02:50]
+8  مینست - نصاب معاملات دولتی در سال 1405:سقف معاملات کوچک 423 میلیون تومان شد www.tasnimnews.ir
+۰  یلصف حد نصاب معاملات کوچک سال 1405؛ استهلاک دارایی و معاملات thdorsan.com
+8, آخرین حد نصاب معاملات ابلاغی هیات دولت | قوانین معاملات www.moamelat.net
+ae سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و www.irib-news.ir
+| Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+حدم Couldn't read https://avash.ir/ %D8%AB%DBERAERDB%B4-~HDBWA7 ۰
+#7 Couldn't read https://avash.ir/4/91937-ssuail- ta
+Iran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 com... 9 results
+68 رسیدگی به شکایات ویکی‌نبشته cin ۵ 3 ۱۳۸۳ قانون برگزاری مناقصات مصوب 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiis «I$» ost
+4 Couldn’t read https://vakilsara.ir/7%D9I%82%D8B%A7T HDI %86%DI%88%DI %86-~DBRAB%DEVBIMD....
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board ۲15 days" seta... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+ie} https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodcorg (3
+_https://www.lexology.com/library/detail.aspx?g=4 Y 3d16-7421-41b9-815d-91bf91b0... wwwilexology.com [4
+
+[02:52]
+۰۱۷۱۷۱۸۷۸۸۰۱۲۱0۲ سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و سیما 357
+
+| Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read اس resholds a0 announce
+# Couldn't read ۱۲۵۵9۰۱/۵۷ ۵۵۱۱۰۱۲/۵۲ 8 7۰۸۵8۹۰۵87۰۸ ۲۵۲87۰54-۵ ۰
+#7 Couldn't read بخش-اقتصادی-۱۲۵۵۹://۵۷۵6۰۱۲/4/91937
+
+Iran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 com... 9 results
+6 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiie «I$» oid
+
+4 Couldn’t read https://vakilsara.ir/7%D9I%82%D8B%AT FDI %86%DI%88%DI%86-~DERAB%DE%VBIMD....
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days"seta... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+@ https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodcorg [3
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4
+۲ https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4
+8۵ سعه تجارت الکترونیکی راه‌اندازی ۱۳۹۰ ماده ۵۰ قانون احکام دانمی v و سامانه ستا results
+
+[02:56]
+ae سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و ۱
+[ Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+# Couldn't read https://avash.ir/ %D8%AB%DBERAERDB%B4-%HDBWA7 HDI ۰
+4 Couldn't read https://avash.ir/4/91937-ssuail- sa
+lIran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 com... v 9 results
+وا Complete List of Tender Issuing Authorities in Iran | مناقصات ایران www.tendersarabia.com
+@ Article 90 of the Constitution Commission of the Islamic Consultative Assembly en.wikipedia.org
+80 List of economic laws in Iran tw en.wikipedia.org
+Mohammad Esmaeil Saeidi en.wikipedia.org
+69 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiis «I$ osid
+4 Couldn’t read https://vakilsara.ir/7%DI%82%D8B%A7T ۳ 0
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board ۲15 09۲ 5662... 9 results
+Iran government e-procurement system SETAD 5۲ ری yan launched year Ministry of Economic... 9 results
+
+[03:00]
+ae سقف معاملات کوچک ۳۲۳ میلیون تومان شد | خبرگزاری صدا و www.irib-news.ir
+& Couldn't read https://www.tasnimnews.ir/fa/news/1405/03/12/3606402/
+@ Couldn't read https://www.mahaksoft.com/109299/transaction-thresholds-1405-announced/
+حدم Couldn't read https://avash.ir/ %D8%AB%DBERAERD8B%B4-%HDBWA7 HDI %82%DBEFAAPWDE%BS%DE...
+#7 Couldn't read https://avash.ir/4/91937-ssuail- sa
+Iran"Law on Holding Tenders" 2004 English translation article 13 advertisement article 25 com... v 9 results
+Article 13016۲ rules applicable to the conduct of bids legislation.gov.uk
+@ CHAPTER IIAid granted through QiteIns TaN eel legislation.gov.uk
+@  CHAPTERIIU.K. PUBLIC TENDER PROCEDURES wwuw.legislation.gov.uk
+ wwwiegislation.gov.uk www.legislation.gov.uk
+49 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiie «I$ oid
+4 Couldn't read https://vakilsara.ir/7%D9%82%D8B%A7T 0
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days" seta... 9 results
+Iran government e-procurement system SETAD s| ری yan launched year Ministry of Economic... 9 results
+
+[03:02]
+2۳۴ CHAPTERIIU.K, PUBLIC TENDER PROCEDURES wwwlegislation.gov.uk
+ wwwiegislation.gov.uk wwuw.legislation.gov.uk
+>
+68 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته 9 results
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiie «1S oid
+4 Couldn't read https://vakilsara.ir/7%D9I%82%D8B%AT 0
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days" seta... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+@ https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodc.org [3
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4
+| https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4
+6 سامانه ستاد مرکز توسعه تجارت الکترونیکی راهاندازی ۱۳۹۰ ماده ۵۰ قانون احکام دائمی 9 results
+4 Couldn't read https://ecommerce.gov.ir/fa/news/501/show
+Query World Bank API for Iran indicators
+نج https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTRCD;N... apiworldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicat Vv POPTOTL?format=json&mrv=3 api.worldbank.org (3
+
+[03:04]
+CHAPTER IIU.K. PUBLIC TENDER PROCEDURES www.legislation.gov.uk
+ wwwiegislation.gov.uk wwuw.legislation.gov.uk
+69 قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هیئت رسیدگی به شکایات ویکی‌نبشته v 9 results
+Bee ۱۳۸۳ مناقصات ی برگزار قاونن www.ekhtebar.ir
+@ قانون برگزاری مناقصات - مرکز پژوهش ها Ww re.majlis.ir
+۷ 83/11/26 شاقول | قانون برگزاری مناقصات مجلس 130890 مورخ 83/11/17 ابلاغ 67490 مورخ TENDER-S LAW of Islamic ۰... ۰" ۳
+۱۷ شاقول | قانون برگزاری مناقصات shaghool.ir
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiis «I$ oid
+4 Couldn’t read https://vakilsara.ir/7%D9%82%D8%A7 FDI ۵
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days" seta... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+ie https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodc.org [4
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4
+| https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4
+QD سامانه ستاا ۳ توسعه تجارت الکترونیکی راهاندازی ۱۳۹۰ ماده ۵۰ قانون احکام دانمی 9 results
+
+[03:08]
+CHAPTER IIU.K. PUBLIC TENDER PROCEDURES www.legislation.gov.uk
+ wwwiegislation.gov.uk wwuw.legislation.gov.uk
+QD و قانون برگزاری مناقصات مصوب ۱۳۸۳ متن کامل ماده ۲۵ هینت رسیدگی به شکایات ویکی‌نبشته results
+قانون برگزاری مناقصات vakilsara.ir
+8 بل مجموعه کامل قوانین برگزاری مناقصات + بخشنامه‌های مرتبط | دکتر مصطفی نجفی drmostafanajafi.ir
+۸8, قانون برگزاری مناقصات | قوانین معاملات www.moamelat.net
+8 قانون برگزاری مناقصات بهمراه آیین نامه های آن - مالی اداری | مالیات ۵20
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+Couldn't read https://fa.wikipedia.org/wiki/Sueiis «I$ oid
+4 Couldn't read https://vakilsara.ir/%D9%82%D8%A7 %DI%86%DI%88%D9%86-FDB%AB%DB%BI%D...
+0
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 0۵۷9۲5662... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+i https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodc.org [3
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4
+| https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4
+QD سامانه ستاا ۳ توسعه تجارت الکترونیکی راهاندازی ۱۳۹۰ ماده ۵۰ قانون احکام دانمی 9 results
+
+[03:10]
+یسب wee رین rg ون سپس
+vakilsara.ir قانون برگزاری مناقصات
+drmostafanajafi.ir مجموعه کامل قوانین برگزاری مناقصات + بخشنامه‌های مرتبط | دکتر مصطفی نجنی 8
+Www.moamelat.net قانون برگزاری مناقصات | قوانین معاملات ,8
+maliedari.com قانون برگزاری مناقصات بهمراه آیین نامه های آن - مالی اداری | مالینت 18
+Couldn't read https://rc.majlis.ir/fa/law/show/99652 ®
+Couldn't read https://fa.wikipedia.org/wiki/ueiis IS oid
+Couldn’t read https://vakilsara.ir/7%D9I%82%D8B%AT FDI %86%DI%88%DI %86-~DERAB%DEVBIMD.... 4
+Iran public procurement "Tenders Act" OR "Tender ۳ 2004 complaints board "15 days" seta... 9 results ®
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results ®
+https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodc.org [3 ۵
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4 ®
+https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4 ۲
+results 9 سامانه ستاد مرکز توسعه تجارت الکترونیکی راه‌اندازی ۱۳۹۰ ماده ۵۰ قانون احکام دانمی QD
+Couldn't read https://ecommerce.gov.ir/fa/news/501/show 6
+Query World Bank API for Iran indicators
+ss] https://api.worldbank.org/v2/country/IRN/indicat’ y }POPTOTL;NY.GDPMKTP.CD\N... apiworldbank.org [4
+
+[03:12]
+Couldn't read https://rc.majlis.ir/fa/law/show/99652
+
+Couldn't read https://fa.wikipedia.org/wiki/Sueiie «I$ Osi
+
+4 Couldn't read https://vakilsara.ir/7%D9%82%D8B%AT FDI %86%DI%88%DI%86-~DERAB%DEVBIMD....
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days" seta... 9 results
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+ie https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodc.org [3
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4
+۱ [ https://Wwww.selltostate.com/blog/setad-iran-guide WY www.selltostate.com [4
+6 سامانه ستاد مرکز توسعه تجارت الکترونیکی راهاندازی ۱۳۹۰ ماده ۵۰ قانون احکام دائمی 9 results
+46 Couldn't read https://ecommerce.gov.ir/fa/news/501/show
+
+G2) Query World Bank API for Iran indicators
+
+https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTRCD;N... apiworldbank.org (3
+نج https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL?format=json&mrv=3 200۳۱۵۹۵20۷۵۲۵ (3
+ii) https://api.worldbank.org/v2/country/IRN/indicator/NY.GDRMKTP.CD?format=json&... apiworldbank.org (3
+نت https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&... apiworldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicat Vv (.GNPPCAPCD?format=json&... apiworldbank.org (4
+
+[03:22]
+Couldn't read https://fa.wikipedia.org/wiki/Guaiie 5) 8» osilé
+
+4 Couldn’t read https://vakilsara.ir/7%D9I%82%D8%A7T FDI %86%DI%88%DI%86-~DERAB%DEVBIMD....
+
+Iran public procurement "Tenders Act" OR "Tender Law" 2004 complaints board "15 days"seta... 9 results
+
+Iran government e-procurement system SETAD setadiran launched year Ministry of Economic... 9 results
+
+ie https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... www.unodc.org [3
+
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.lexology.com [4
+
+۱ [ https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4
+
+QD سامانه ستاد مرکز توسعه تجارت الکترونیکی راه‌اندازی ۱۳۹۰ ماده ۵۰ قانون احکام دانمی 9 results
+8 SS HN مرکز توسعه تجارت www.aparat.com
+۶ . مرکز توسعه تجارت الکترونیکی Ww ecommerce.gov.ir
+Sg قابلیت تغییر وضعیت قرارداد در سامانه تدارکات الکترونیکی ecommerce.gov.ir
+
+۲ ۱۷۷2 معرفی مرکز توسعه تجارت الکترونیکی
+
+4 Couldn't read https://ecommerce.gov.ir/fa/news/501/show
+
+Query World Bank API for Iran indicators
+
+https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTPRCD;N... apiworldbank.org (3 زدیا
+
+https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL?format=json&mrv=3 api.worldbank.org (3
+
+1 م۳ ۰
+۳ https://apiworldbank.org/v2/country/IRN/indicats Y.GDPMKTP.CD?format=json&... apiworldbank.org (4
+
+[03:24]
+https://www.unodc.org/documents/corruption/WG-Prevention/Art_9_Public_procure... ۷۷۷/۷۸۵۵۵۵۲۵ [4 ۵
+https://www.lexology.com/library/detail.aspx?g=43033d16-7421-41b9-815d-91bf91b0... www.exology.com [4 ®
+https://www.selltostate.com/blog/setad-iran-guide/ www.selltostate.com [4 1
+v 9 results سامانه ستاد مرکز توسعه تجارت الکترونیکی راه‌اندازی ۱۳۹۰ ماده ۵۰ قانون احکام دانمی QD
+پیب سس رورس
+ecommerce.gov.ir قابلیت تغییر وضعیت قرارداد در سامانه تدارکات الکترونیکی دولت ۰ <*
+way2pay.ir معرفی مرکز توسعه تجارت الکترونیکی 1
+way2pay.ir اساسنامه مرکز توسعه تجارت الکترونیکی 1
+davoudabadi.ir ماده 50 قانون احکام دانمی برنامه های توسعه کشور | مهدی داودآبادی 8
+S Couldn't read https://ecommerce.gov.ir/fa/news/501/show
+Query World Bank API for Iran indicators
+y https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTRCD;N... apiworldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL?format=json&mrv=3  api.worldbank.org (3
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GDPMKTP.CD?format=json&... apiworldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&... api.worldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... api.worldbank.org (3
+tients |sontanees تین vy, باصنا۵ع/۳۲۵۵۹://۵۵۱۰۱۸۷۵۲۱۵۵۵۴۵۱,۵۲۵/۷2 Couldn't read 5
+
+[03:26]
+Couldn't read https://ecommerce.gov.ir/fa/news/501/show
+
+Query World Bank API for Iran indicators
+
+https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTPRCD;N... apiworldbank.org (3 نم
+sa https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL?format=json&mrv=3  api.worldbank.org (3
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GDRMKTP.CD?format=json&... apiworldbank.org (3 نما
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&... api.worldbank.org (3 ®
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... apiworldbank.org (3 ®
+Couldn't read https://api.worldban k.orgiv2/country/IR}Yindicator/PA.NUS.FCRF?format=json&mrv=3 %
+
+ran parliament remove four zeros rial redenomination Guardian Council approved toman ne... 10 results
+iran WTO observer status accession 2026 Government Procurement Agreement 9 results
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+68 آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی ie 9 results
+
+[03:28]
+S Couldn't read https://ecommerce.gov.ir/fa/news/501/show
+Query World Bank API for Iran indicators v
+
+bash
+
+for i in SP.POP.TOTL NY.GDP.MKTP.CD NY.GNP.ATLS.CD NY.GNP.PCAP.CD NE.CON.GOVT.ZS; do curl
+
+-sS -m 20 "https://api.worldbank.org/v2/country/IRN/indicator/$i?format=json&mrv=3" | head
+
+-c 600; echo; done N
+
+Output
+
+curl: (56) CONNECT tunnel failed, response 403
+y https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTRCD;N... apiworldbank.org (3
+https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL?format=json&mrv=3 api.worldbank.org (3
+i) https://api.worldbank.org/v2/country/IRN/indicator/NY.GDPMKTP.CD?format=json&... apiworldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&... api.worldbank.org (3
+y https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... apiworldbank.org (3
+y Couldn't read https://api.worldbank.org/v2/country/IRN/indicator/PA.NUS.FCRF?format=json&mrv=3
+ran parliament remove four zeros rial redenomination Guardian Council approved toman ne... 10 results
+Iran WTO observer status accession 2026 Government Procurement Agreement 9 results
+7) Couldn't read https://www.wto.org/english/thewto e/acc_e/a1_iran_e.htm
+
+im fa
+
+[03:32]
+curd: (56) CUNNECI tunnel tailed, response 403
+
+curl: (56) CONNECT tunnel failed, response 403
+https://api.worldbank.org/v2/country/IRN/indicator/SPPOPTOTL;NY.GDRMKTRCD;N... apiworldbank.org (3
+y NINN SLES apiworldbank.org (4
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GDPMKTP.CD?format=json&... apiworldbank.org (3
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&... apiworldbank.org (3
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... apiworldbank.org (3
+Couldn't read https://api.worldbank.org/v2/country/IRN/indicator/PA.NUS.FCRF?format=json&mrv=3
+Iran parliament remove four zeros rial redenomination Guardian Council approved toman ne... 10 results
+Iran WTO observer status accession 2026 Government Procurement Agreement 9 results
+7 Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid ۷۵,,, 9 results
+6 بار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی db و قانون برگزاری مناقصات ماده ۱۳ فاد results
+
+[03:36]
+y ps://aj 8 / Jj ۳
+y https://api.worldbank.org/v2/country/IRN/indicator/NY.GDRMKTP.CD?format=json&... apiworldbank.org (3
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&... api.worldbank.org (3
+نت https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... apiworldbank.org (3
+) Couldn't read https://api.worldbank.org/v2/country/IRN/indicator/PA.NUS.FCRF?format=json&mrv=3
+ran parliament remove four zeros rial redenomination Guardian Council approved tomanne... > 10 results
+Iran WTO observer status accession 2026 Government Procurement Agreement 9 results
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+ee caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid ۷۵,,, 9 results
+6 قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پیشنهاد ۱۰ روز ۳۰ روز بین‌المللی 9 results
+هه ۵ 4 نا 8Bhoursago
+Read 5 pages, updated tasks, searched the web
+
+صفحه‌گسترده و متن درخواست به‌روزرسانی آماده است. اما نتوانستم خود صفحه نمایه ایران را ببینم» پس ستون «مقدار فعلی در پورتال» در
+همه ردیف‌ها «مشاهده‌نشده» مانده است. دامنه پورتال (۰)3۳۳ فایل داده‌های آن و بیشتر سایت‌های رسمی ایران (مجلس» ستاد) از محیط کار
+
+من در دسترس نبودند.
+
+[03:38]
+9 https://api.worldbank.org/v2/country/IRN/indicator/NY.GNP.ATLS.CD?format=json&... api.w ank.org (4
+y https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... apiworldbank.org (3
+ss) Couldn't read https://api.worldbank.org/v2/country/IRN/indicator/PA.NUS.FCRF?format=json&mrv=3
+ran parliament remove four zeros rial redenomination Guardian Council approved toman ne... ۳ 10 results
+iran WTO observer status accession 2026 Government Procurement Agreement 9 results
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+DB 4 ۵ ۵۵0
+Read 5 pages, updated tasks, searched the web
+
+صفحه‌گسترده و متن درخواست به‌روزرسانی آماده است. اما نتوانستم خود صفحه نمایه ایران را ببینم» پس ستون «مقدار فعلی در پورتال» در
+همه ردیف‌ها «مشاهده‌نشده» مانده است. دامنه پورتال (۰)3۳۳ فایل داده‌های آن و بیشتر سایت‌های رسمی ایران (مجلس» ستاد) از محیط کار
+من در دسترس نبودند.
+
+فهرست ۱۰۸ فیلد را از گزارش رسمی جمع‌آوری داده GPPD (بانک جهانی» ۲۰۲۰) ساختم. طبق همین گزارش, برای ایران فقط ۲۴
+عنصر داده ثبت شده است. این داده‌ها در سال ۲۰۱۹ فقط با پژوهش میزی جمع شده‌اند و دولت ایران هم پاسخی نداده است. پس احتمالا بیشتر
+نمایه خالی یا قدیمی است. Vv
+
+[03:40]
+1 https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&...  apiworldbank.org خ]
+https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPPCAPCD?format=json&... apiworldbank.org (3
+i) Couldn't read https://api.worldbank.org/v2/country/IRN/indicator/PA.NUS.FCRF?format=json&mrv=3
+Iran parliament remove four zeros rial redenomination Guardian Council approved toman ne... v 10 results
+
+۲ Iran's parliament approves plan to remove four zeros from national currency | Iran International ۱
+tran parliament advances plan to slash four zeros from rial | Iran International w www.iranintl.com
+Iran approves plan to slash four zeros from currency | Arab News www.arabnews.com
+2 Iran Rial Redenomination: A Collector's Guide - Planet Banknote planetbanknote.com
+Iran WTO observer status accession 2026 Government Procurement Agreement و results
+7 Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+69 قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پیشنهاد ۱۰ روز ۳۰ روز بین‌المللی 9 results
+2 & ۵ ) ۰0
+Read 5 pages, updated tasks, searched the web ۳
+
+[03:46]
+7 https://api.worldbank.org/v2/country/IRN/indicator/NY.GNPATLS.CD?format=json&...  apiworldbank.org 4
+زدیا https://api.worldbank.org/v2/country/IRN/indicator/NY.GNP.PCAPCD?format=json&... apiworldbank.org (3
+i) Couldn't read https://api.worldbank.org/v2/country/IRN/indicator/PA.NUS.FCRF?format=json&mrv=3
+Iran parliament remove four zeros rial redenomination Guardian Council approved toman ne... v 10 results
+
+‘Parliament approves plan to remove 4 zeros from national currency - Tehran Times www.tehrantimes.com
+8۵ Parliament okays plan to slash four zeros from national currency Wewspaperirandaily, ir
+Iran Launches Nationwide Currency Denomination - Caspianpost.com caspianpost. |
+۱ www.malaymail.com www.malaymail.com
+Iran WTO observer status accession 2026 Government Procurement Agreement و results
+7 Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پیشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+تا > GO © Bhoursago
+Read 5 pages, updated tasks, searched the web ۳
+
+[03:54]
+@ Iran parliament remove four zeros rial redenomination Guardian Council approved tomanne... v 10 results
+مب وی ی یی پم ی میب ee یی 1
+Iran Launches Nationwide Currency Denomination - Caspianpost.com caspianpost.com
+۱۱ www.malaymail.com www.malaymail.com
+€ ran approves plan to slash four zeros from currency gulfnews.com
+۱۰ irancurrency value us dollar rial four zeros dc.fortune.com
+
+Iran WTO observer status accession 2026 Government Procurement Agreement IN و results
+
+—) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+
+2 4 ۵ 0 ۵0
+
+Read 5 pages, updated tasks, searched the web
+
+صفحه‌گسترده و متن درخواست به‌روزرسانی آماده است. اما نتوانستم خود صفحه نمایه ایران را ببینم» پس ستون «مقدار فعلی در پورتال» در
+همه ردیف‌ها «مشاهده‌نشده» مانده است. دامنه پورتال (۰)3۳۳ فایل داده‌های آن و بیشتر سایت‌های رسمی ایران (مجلس» ستاد) از محیط کار
+من در دسترس نبودند.
+
+فهرست ۱۰۸ فیلد را از گزارش رسمی جمع‌آوری داده GPPD ۱ 0 جهانی» ۲۰۲۰) ساختم. طبق همین گزارش, برای ایران فقط ۲۴
+عنصر داده ثبت شده است. این داده‌ها در سال ۲۰۱۹ فقط با پژوهش .ری جمع شده‌اند و دولت ایران هم پاسخی نداده است. پس احتمالاً بیشتر
+
+[03:56]
+@ Iran parliament remove four zeros rial redenomination Guardian Council approved tomanne... ۲ 10 results
+Sanne مب وی یب پم ی gg مسب یم سیم میب
+Iran Launches Nationwide Currency Denomination - Caspianpost.com caspianpost.com
+۱ www.malaymail.com www.malaymail.com
+€ ran approves plan to slash four zeros from currency gulfnews.com
+3 iran currency value us dollar rial four zeros dc.fortune.com
+
+Iran WTO observer status accession 2026 Government Procurement Agreement v و results
+20 Agreement on Government Procurement en.wikipedia.org
+بت WTO | Government procurement - The plurilateral Agreement on Government Procurement (GPA) — www.wto.org
+“ WTO | Government procurement - The plurilateral Agreement on Government Probyvement (GPA) www.wto.org
+80 iran and the World Trade Organization en.wikipedia.org
+“WTO | Accession status: Iran www.wto.org
+
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (3
+
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+
+QB و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پیشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+
+DB ٩ ® ) ۵۵۰ Vv
+
+[03:58]
+@® Iran parliament remove four zeros rial redenomination Guardian Council approved tomanne... ۲ 10 results
+مب وی یب پم ی میسیب بب gg مسب یی سیم میب
+Iran Launches Nationwide Currency Denomination - Caspianpost.com caspianpost.com
+۱ www.malaymail.com www.malaymail.com
+€ ran approves plan to slash four zeros from currency gulfnews.com
+۱۰ iran currency value us dollar rial four zeros dc.fortune.com
+
+Iran WTO observer status accession 2026 Government Procurement Agreement v و results
+=» ۱۷۷۲۵ | Accession status: Iran wwwwto.org
+Iranian Membership in the World Trade Organization: An Unclear Future | Iranian Studies]... www.cambridge.org
+=) WTO|Accessions - Current status of WTO accessions ww www.wto.org
+2 WTO|WTO accessions =
+
+wto allows iran membership bid www.aljazeera.com
+
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... 9 results
+
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid ۷۵,,, 9 results
+
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+
+DB ٩ ® ) ۵۵۰ Vv
+
+[04:00]
+@ Iranian Membership in the World Trade Organization: An Unclear Future | Iranian Studies | www.cambridge.org
+نت WTO|Accessions - Current status of WTO accessions www.wto.org
+نت WTO|WTO accessions wto.org
+5 wtoallows iran membership bid wwwaaljazeera.com
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation aye Eurasian... 9 results
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+2 ٩ ۵ ۵0
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:04]
+@ Iranian Membership in the World Trade Organization: An Unclear Future | Iranian Studies | www.cambridge.org
+نت WTO|Accessions - Current status of WTO accessions www.wto.org
+= WTO|WTO accessions wto.org
+ wtoallows iran membership bid wwwaaljazeera.com
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian ... Ww results
+7۲ Iran Becomes A Member Of BRICS, With Hopes And Challenges | Iran International www.iranintl.com
+@® EAEU &lran: full-fledged free trade agreement entered into force eec.eaeunion.org
+Iran to Join the BRICS Alliance | The Iran Primer iranprimer.usip.org
+Greater Eurasian Partnership en.wikipedia.org
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+B® ۵ ۵0
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:06]
+@ Iranian Membership in the World Trade Organization: An Unclear Future | Iranian Studies | www.cambridge.org
+نت WTO|Accessions - Current status of WTO accessions www.wtoorg
+“= WTO|WTO accessions wto.org
+5 wtoallows iran membership bid wwwaaljazeera.com
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9 results
+۴ Iran to Join the BRICS Alliance | The Iran Primer iranprimer.usip.org
+Greater Eurasian Partnership en.wikipedia.org
+Member states of BRICS Ww enwikipedia.org
+‘T Iran joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+Iran's free trade agreement with the EAEU: Implications for the South Caucasus top-centerorg
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+2 4 ۵ ۵0
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:10]
+8 wtoallows iran membership bid www.aljazeera.cor
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/lran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9 results
+مسجت مج سس سس ی 09
+1. ۱۳۵ joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+Iran's free trade agreement with the EAEU: Implications for the South Caucasus top-center.org
+» lran-Eurasia agreement heralds a new trade order | The Iran Project www.theiranproject.com
+@ Evrasian Economic Union, Iran, Free Trade Agreement Effective From May 15 - RUSSIA'S... russiaspivottoasia.com
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article ty standstill bid va... و results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+Bm ® ) ۰0
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:12]
+8 wtoallows iran membership bid www.aljazeera.cor
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9results
+"Iran to Join the BRICS Alliance | The Iran Primer iranprimer.usip.org
+Greater Eurasian Partnership en. سس
+Member states of 5 w en.wikipedia.org
+‘[ Iran joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+Bm ® ) ۰
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:14]
+2 wtoallows iran membership bid www.aljazeera.com
+7) Couldn't read https://www.wto.org/english/thewto_e/acc_e/a1_iran_e.htm
+https://caspianpost.com/iran/iran-launches-nationwide-currency-denomination caspianpost.com (4
+https://en.wikipedia.org/wiki/Iran_and_the_World_Trade_Organization en.wikipedia.org (4
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9results
+Member states of BRICS enwikipedia.org
+‘T Iran joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+Iran's free trade agreement with the EAEU: Implications for the South Caucasus top-center.org
+» lran-Eurasia agreement heralds a new trade order | The Iran Project Novwtheiranproject. com
+@ Eurasian Economic Union, Iran, Free Trade Agreement Effective From May 15- RUSSIA'S... russiaspivottoasia.com
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... 9 results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پیشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+2 4 ۵ ۵0
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:16]
+— eS
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9 results
+Member states of BRICS en.wikipedia.org
+‘T Iran joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+Iran's free trade agreement with the EAEU: Implications for the South Caucasus top-center.org
+ lran-Eurasia agreement heralds a new trade order | The Iran Project www.heiranproject.com
+@ Eurasian Economic Union, Iran, Free Trade Agreement Effective From May 15 - RUSSIA'S... russiaspivottoasia.com
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid vay و results
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+Dm ۵ ® 8hoursago
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:18]
+— eS
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9 results
+Member states of BRICS en.wikipedia.org
+‘T Iran joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+Iran's free trade agreement with the EAEU: Implications for the South Caucasus top-center.org
+» lran-Eurasia agreement heralds a new trade order | The Iran Project www.theiranproject.com
+@ Eurasian Economic Union, Iran, Free Trade Agreement Effective From May 15- RUSSIA'S... russiaspivottoasia.com
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... v 9 results
+@  Rignts ana Entitlements or 0۳6۵66656۲۲ Bidders Under PUDIIC Procurement Law... WWWw.adalesnawgoadara.com
+5 ۰ THEMATIC COMPILATION OF RELEVANT INFORMATION SUBMITTED BY IRAN www.unodc.org ff
+Guidance on procurement regulations to be promulgated in wy uncitral.un.org
+La And Law No. (60) of 2006 reorganizing the Legal Affairs Department, publicprocurementinternational.com
+Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+6 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+Dm ۵ ® 8Bhoursago
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:20]
+— eS
+Iran full member BRICS January 2024 Shanghai Cooperation Organisation July 2023 Eurasian... v 9 results
+Member states of BRICS en.wikipedia.org
+‘T Iran joins BRICS group formally in 2024 - Tehran Times www.tehrantimes.com
+Iran's free trade agreement with the EAEU: Implications for the South Caucasus top-center.org
+» lran-Eurasia agreement heralds a new trade order | The Iran Project www.theiranproject.com
+@ Eurasian Economic Union, Iran, Free Trade Agreement Effective From May 15- RUSSIA'S... russiaspivottoasia.com
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... v 9 results
+@ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+@® EXECUTIVE REGULATIONS OF THE GOVERNMENT TENDERS AND PROCUREMENT LAW Ww www.mof.gov.sa
+4; Latest Iran Tenders & Bids 2026 | مناقصات ايران www.tendersarabia.com
+88 Latest 10000 Iran Tenders 2026 - eProcurement & eTender in Iran www.biddetail.com
+69 و قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+Dm ۵ ® 8Bhoursago
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:22]
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... v 9 results
+Big eer re ey er eee reer per ein Se iE errant erp rien Pewnepr ewer ererrenrserrnacrernaneers
+@ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+@® EXECUTIVE REGULATIONS OF THE GOVERNMENT TENDERS AND PROCUREMENT LAW www.mof.gov.sa
+وا Latest Iran Tenders & Bids 2026 | مناقصات ايران www.tendersarabia.com
+BB Latest 10000 Iran Tenders 2026 - eProcurement & eTender in Iran www.biddetail.com
+68 با آخرین آگهی تا آخرین مهلت تسلیم پیشنهاد ۱۰ روز ۳۰ روز بین‌المللی 9 results
+دستورالعمل ماده ۵۳ آیین نامه مالی و معاملاتی موضوع مناقصه و مزایده ۵6۵6۲
+6 قانون برگزاری مناقصات - مرکز پژوهش ها re.majlis.ir
+Bein ...آیین نامه اجرایی بند "ج" ماده )1( قانون برگزاری re.majlis.ir
+متن کامل قانون برگزاري مناقصات و آیین نامه هاي اجرایی آن فصل اول- کلیات ل)) www.ostan-hm.ir
+هه ۵ 4 نا 8hoursago
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:24]
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... v 9 results
+i ee re ee er eee eer ger ming Sree eer errant weep ernwrrny PUM ee وی وت خی باتوی وت دورب
+@ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+@ EXECUTIVE REGULATIONS OF THE GOVERNMENT TENDERS AND PROCUREMENT LAW www.mof.gov.sa
+وا Latest Iran Tenders & Bids 2026 | مناقصات ايران www.tendersarabia.com
+BB Latest 10000 Iran Tenders 2026 - eProcurement & eTender in Iran www.biddetail.com
+GD قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی v 9 results
+6 قانون برگزاری مناقصات - مرکز پژوهش ها re.majlis.ir
+6 ...آیین نامه اجرایی بند "ج" ماده (۱۲) قانون برگزاری ماقصات Ww re.majlis.ir
+)) متن کامل قانون برگزاري مناقصات و آیین نامه هاي اجرایی آن فصل اول- کلیات www.ostan-hm.ir
+58 قانون برگزاری مناقصات www.solh.ir
+Yo Shade شاقول | قانون برگزاری shaghool.ir
+9 4 6 ® 8Bhoursago
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:26]
+"Law on Holding Tenders" Iran complaint "Tender Complaints" board article 25 standstill bid va... v 9 results
+«۰-۰ سس
+۵ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+@® EXECUTIVE REGULATIONS OF THE GOVERNMENT TENDERS AND PROCUREMENT LAW www.mof.gov.sa
+وا Latest Iran Tenders & Bids 2026 | مناقصات ايران www.tendersarabia.com
+BB Latest 10000 Iran Tenders 2026 - eProcurement & eTender in Iran www.biddetail.com
+69 و ۶ قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+۷ شاقول | قانون برگزاری مناقصات shaghool.ir
+Contract Disputes Act of 1978 ww en.wikipedia.org
+قانون برگزاری مناقصات vakilsara.ir
+Firm offer en.wikipedia.org
+تا 4 ® ® 8hoursago
+Read 5 pages, updated tasks, searched the web
+[The Farsi response transcribed at 01:20 reappears.]
+
+[04:28]
+69 و ۶ قانون برگزاری مناقصات ماده ۱۳ فاصله انتشار آخرین آگهی تا آخرین مهلت تسلیم پيشنهاد ۱۰ روز ۳۰ روز بین‌المللی results
+۱ شاقول | قانون برگزاری مناقصات shaghool.ir
+Contract Disputes Act of 1978 en.wikipedia.org
+قانون برگزاری مناقصات vakilsara.ir
+Firm offer en.wikipedia.org
+
+٩ ® ) ۰ 9
+Read 5 pages, updated tasks, searched the web
+فک تر ده و ea alta ru Gk Shing aiinraimnatel
+همه ردیف‌ها «مشاهده‌نشده» مانده است. دامنه پورتال «GPPD فایل داده‌های أن و بیشتر سایت‌های رسمی ایران (مجلس؛ ستاد) از محیط کار
+من در دسترس نبودند.
+فهرست ۱۰۸ فیلد را از گزارش رسمی جمع‌آوری داده GPPD (بانک جهانی» ۲۰۲۰) ساختم. طبق همین گزارش, برای ایران فقط ۲۴
+عنصر داده ثبت شده است. این داده‌ها در سال ۲۰۱۹ فقط با پژو هش میزی جمع شده‌اند و دولت ایران هم پاسخی نداده است. پس احتمالا بیشتر
+نمایه خالی یا قدیمی است.
+نتیجه بررسی ۱۰۸ فیلد:
+وضعیت تعداد فیلد
+اطمینان زیاد yy
+اطمینان متوسط ۱۵
+اطمینان کم ۳
+حل‌نشده Vv ۳۱
+
+[04:30]
+@ Firm offer en.wikipedia.org
+Read 5 pages, updated tasks, searched the web
+8 Couldn't read https://www.solh.ir/regulation/1/61
+0 Couldn't read https://www.ostan-hm.ir/Upload/53348mooo0.pdf
+[ Couldn't read https://fa.wikisource.org/wiki/oustie 5 )S 2 os
+Iran Law on Tenders 1383 English text pdf "Article 25" "complaints" "tender committee" "qualit... 9 results
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... 9 results
+World Bank Iran country overview portfolio nbBotive projects since و results
+6 قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی 9 results
+https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+G https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+Completed task
+Completed task
+Ran skill: xlsx
+(ع Build and recalculate the spreadsheet ab
+
+[04:36]
+Read 5 pages, updated tasks, searched the web
+
+8 Couldn't read https://www.solh.ir/regulation/1/61
+
+W Couldn't read https://www.ostan-hm.ir/Upload/53348mooo0.pdf
+
+[ Couldn't read https://fa.wikisource.org/Wiki/ousiie 582 osilé
+
+Iran Law on Tenders 1383 English text pdf "Article 25" "complaints" "tender committee" "qualit... 1 results
+
+Civil Code of the Islamic Republic of Iran, Iran (Islamic Republic of), WIPO Lex wipo.int
+
+8 THEMATIC COMPILATION OF RELEVANT INFORMATION SUBMITTED BY IRAN www.unodc.org
+@® EXECUTIVE REGULATIONS OF THE GOVERNMENT TENDERS AND PROCUREMENT LAW, www.mof.gov.sa
+4; Complete Guide to Tenders in Arab World, GCC & Middle East: ... | TendersArabia Blog www.tendersarabia.com
+
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... 9 results
+
+World Bank Iran country overview portfolio no active projects since 9 results
+
+6 قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی 9 results
+
+https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4 نت
+
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+
+Completed task
+
+Completed task
+
+Ran skill: xlsx dy
+
+[04:40]
+Read 5 pages, updated tasks, searched the web
+
+8 Couldn't read https://www.solh.ir/regulation/1/61
+
+0 Couldn't read https://www.ostan-hm.ir/Upload/53348mooo0.pdf
+
+[ Couldn't read https://fa.wikisource.org/wiki/obaiie 65182 ost
+
+Iran Law on Tenders 1383 English text pdf "Article 25" "complaints" "tender committee" "qualit... v 9 results
+وا Latest Iran Tenders & Bids 2026 | مناقصات ايران www.tendersarabia.com
+@ Article 90 of the Constitution Commission of the Islamic Consultative Assembly ww en.wikipedia.org
+@ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+8 Annex 1101 Annex 1 Procurement guidelines for tender www.ao.org
+
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... 9 results
+
+World Bank Iran country overview portfolio no active projects since و results
+
+6 و قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی results
+
+y https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+
+Completed task
+
+Completed task
+
+G Ran skill: xlsx ab
+
+[04:44]
+Read 5 pages, updated tasks, searched the web
+
+8 Couldn't read https://www.solh.ir/regulation/1/61
+
+W Couldn't read https://www.ostan-hm.ir/Upload/53348mooo.pdf
+
+[ Couldn't read https://fa.wikisource.org/wiki/tbaiie 5182 ost
+
+Iran Law on Tenders 1383 English text pdf "Article 25" "complaints" "tender committee" "qualit... v 9 results
+Article 90 of the Constitution Commission of the Islamic Consultative Assembly en.wikipedia.org
+@ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+Annex 1101 Annex 1 Procurement guidelines for tender www.fao.org
+Iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... v 9 results
+۳ Iran National Tender Portal (SETADIRAN) Tender Search — Hook by Sell to State www.selltostate.com
+۲ Complete Guide to SETAD: Iran's Government Procurement Portal wwiNttlitostate -
+6 SETAD (Iranian e-procurement system) — Grokipedia grokipedia.com
+Execution of Imam Khomeini%27s Order en.wikipedia.org
+
+World Bank Iran country overview portfolio no active projects since 9 results
+
+@® و قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی results
+
+3) https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+
+[04:46]
+Read 5 pages, updated tasks, searched the web
+
+8 Couldn't read https://www.solh.ir/regulation/1/61
+
+W Couldn't read https://www.ostan-hm.ir/Upload/53348mooo.pdf
+
+a Couldn't read https://fa.wikisource.org/wiki/obaiie 6182 ost
+
+Iran Law on Tenders 1383 English text pdf "Article 25" "complaints" "tender committee" "qualit... v 9 results
+Article 90 of the Constitution Commission of the Islamic Consultative Assembly en.wikipedia.org
+@ Iran law and legal tenders get latest Iran law and legal tenders and bids www.globaltenders.com
+Annex 1101 Annex 1 Procurement guidelines for tender www.fao.org
+Iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... v 9 results
+Execution of Imam Khomeini%27s Order en.wikipedia.org
+Iran Public eProcurement System (SETAD) | Connecting Foreigners to Iran Business Infor... wwwlSrslabeat com
+Iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+18 ۰ Iran Public eProcurement System (SETAD) www.linkedin.com
+
+World Bank Iran country overview portfolio no active projects since و results
+
+69 و قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی results
+
+https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4 نج
+
+[04:48]
+@ iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... v 9 results
+Me rrr preeer cree epeewiny سیسات مویدیت ان مت تو یتسد
+80 Execution of Imam Khomeini%27s Order enwikipedia.org
+Iran Public eProcurement System (SETAD) | Connecting Foreigners to Iran Business Infor... www.persiabeat.com
+iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+18 ۰ ۱۳۵ Public eProcurement System (SETAD) wwwilinkedin.com
+
+World Bank Iran country overview portfolio no active projects since ly 9 results
+
+49 و قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی results
+
+y https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+
+Completed task
+
+Completed task
+
+Ran skill: xlsx
+
+Build and recalculate the spreadsheet
+
+Verify summary sheet values
+
+Created GPPD_Iran_update_request.md ۳
+
+[04:50]
+@ iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+SETAD Iran e-procurement transactions value trillion rials 2025 number of tenders governmen... v 9 results
+ص00 preeerernweeeyeewiny we wnipenne وت میت سنوت بح
+Execution of Imam Khomeini%27s Order en.wikipedia.org
+Iran Public eProcurement System (SETAD) | Connecting Foreigners to Iran Business Infor... www.persiabeat.com
+iran Tenders | RFP, Bids, eProcurement | Iran Government Tenders 2026 www.irantenders.com
+18 ۰ ۱۳۵ Public eProcurement System (SETAD) wwwilinkedin.com
+World Bank Iran country overview portfolio no active projects since v 9 results
+@s The World Bank and Iran - EveryCRSReport.com ۳ www.everycrsreport.com
+Russia and the World Bank on
+Myanmar and the World Bank en.wikipedia.org
+Iran, Islamic Republic Of - Finances One - World Bank financesone.worldbank.org
+سسوم هه ee
+@® و قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی results
+y https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+Completed task
+Completed task
+۱ Vv
+
+[04:54]
+Iran Public eProcurement System (SETAD) www.linkedin.com قا
+results و World Bank Iran country overview portfolio no active projects since v ®
+بو رو سس وت موی وس تست مس میس یی سس یی ae
+Research - Iran wwwworldbank.org 5
+World Bank Open Data data.worldbank.org %
+Economic Monitor www.worldbank.org ۱۳۵۵ 5
+wwwgovinfo.gov www.govinfo.gov ®
+results 9 قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی 6
+https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4 زدیا
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+Completed task =8
+Completed task =8
+Ran skill: xlsx
+Build and recalculate the spreadsheet
+Verify summary sheet values
+(Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md ۸
+
+[04:56]
+ran Public eProcurement System (SETAD) www.linkedin.com قا
+
+World Bank Iran country overview portfolio no active projects since v و results
+هه هب SRE SD SEER Cee اسر ی مت موی رتست امه
+Research - Iran www.worldbank.org
+5 ۷۷۵۲۱۵ Bank Open Data data.worldbank.org
+5 ۱۳۵۵ Economic Monitor www.worldbank.org
+wwwegovinfo.gov www.govinfo.gov
+
+QD قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی v 9 results
+@ قانون حداکتر استفاده از توان تولیدی و خدماتی در تأمين ... re.majlis.ir
+6 قانون حداکثر استفاده از توان داخل - مرکز پژوهش های مجلس ۳ rc.majlis.ir
+20 Cyberspace service regulation system en.wikipedia.org
+Clean Air Law of Iran en.wikipedia.org
+
+ii) https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+
+Completed task
+
+Completed task
+
+Ran skill: xlsx
+
+Build and recalculate the spreadsheet v عم
+
+[04:58]
+iran Public eProcurement System (SETAD) www.linkedin.com قا
+
+World Bank Iran country overview portfolio no active projects since v و results
+gD REE TREE SD SEER Ce se اسر ی مت موی رتست امه
+5 Research - Iran www.worldbank.org
+5 World Bank Open Data data.worldbank.org
+5 ۱۳۵۵ Economic Monitor www.worldbank.org
+wwwegovinfo.gov www.govinfo.gov
+
+49 قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی v و results
+20 ۰ 01620 Air Law of Iran en.wikipedia.org
+20 Law of %22confrontation with human-rights violations and USA adventuresome and tery «en.wikipedia.org
+6 ۰ گزارش نظارتی «قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی» (2): ارزیابی تفصیلی احکام قانون report.mrc.ir
+ 25- نکاتی در خصوص قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - گروه حقوقی دادپی www.dadpeyfirm.com
+
+ii) https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+
+G _https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+
+Completed task
+
+Completed task
+
+Ran skill: xlsx
+
+G3 Build and recalculate the spreadsheet v
+
+[05:00]
+5 Research - Iran www.worldbank.org
+5 ۱۷۷۵۲۱۵ Bank Open Data data.worldbank.org
+5 ۱۳۵۵ Economic Monitor www.worldbank.org
+wwwegovinfo.gov www.govinfo.gov
+
+6 قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی v 9 results
+سپ میب ی ویب یی یسیو ی سس
+6 گزارش نظارتی «قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی» (2): ارزیابی تفصیلی احکام قانون report.mrc.ir
+ 25- نکاتی در خصوص قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - گروه حقوقی دادپی www.dadpeyfirm.com
+# قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - فصلنامه عقود و قراردادها ۲
+PR ماده 5 - قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - فصلنامه عقود و قراردادها ogod.ir
+
+https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4 نت
+
+G https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+
+Completed task
+
+Completed task
+
+Ran skill: xlsx
+
+Build and recalculate the spreadsheet
+
+Verify summary sheet values
+
+Created GPPD_Iran_update_request.md ۳
+
+[05:06]
+wwwgovinfo.gov www.govinfo.gov
+6 قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی ۱۳۹۸ خرید خارجی ممنوع سامانه توان داخلی v 9 results
+سس یب بیس یس سس سس سس مسرب
+) ۰ گزارش نظارتی «قانون حداکثر استفده از توانتولیدی و خدماتی کشور و حمایت از کالای ایرانی» (2): ارزیابی تفصیلی احکامقانون report.mrc.ir
+ 25- نکاتی در خصوص قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - گروه حقوقی دادپی www.dadpeyfirm.com
+310) fy قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - فصلنامه عقود ogod.ir
+Rasa) hg ماده 5 - قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - فصلنامه عقود ogod.ir
+نت https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+G https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+Completed task v
+Request
+{
+"status": 6۵0۵16160۷ ,
+"taskId": "1"
+1
+Response
+Updated task #1 status
+Completed task
+Ran skill: xlsx
+
+[05:08]
+4 ماده 5 - قانون حداکثر استفاده از توان تولیدی و خدماتی کشور و حمایت از کالای ایرانی - فصلنامه عقود و قراردادها ogod.ir
+https://www.worldbank.org/ext/en/country/iran wwwworldbank.org (4
+G https://grokipedia.com/page/setad-iranian-e-procurement-system grokipedia.com [4
+Completed task v
+Request
+{
+"status": "completed",
+"taskId": "1"
+1
+Response
+Updated task #1 status
+Completed task
+Ran skill: xlsx IN
+Build and recalculate the spreadsheet
+Verify summary sheet values
+Created GPPD_Iran_update_request.md
+۸ Edited GPPD_Iran_update_request.md
+Completed task v
+
+[05:10]
+Request
+{
+"status": "completed",
+"taskId": "1"
+t
+Response
+Updated task #1 status
+Completed task v
+Request
+{
+"status": "completed",
+"taskId": "2"
+t
+Response
+Updated task #2 status
+Ran skill: xlsx
+Build and recalcuNyye the spreadsheet >
+Verify summary sheet values
+FS) Created GPPD_Iran_update_request.md
+OC Edited GPPD_Iran_update_request.md
+Completed task v
+
+[05:12]
+“taskId": "2"
+1
+Response
+Updated task #2 status
+ول tT Ran Skill: xISX
+Build and recalculate the spreadsheet
+Verify summary sheet values
+Created GPPD_Iran_update_request.md 2
+Edited GPPD_Iran_update_request.md
+Completed task =8
+Completed task =8
+Completed task =8
+Shared files 4
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:14]
+Ran skill: xlsx v
+Request
+{
+"skill": "xlsx"
+1
+Response
+Launching skill: anthropic-skills:xlsx
+Build and recalculate the spreadsheet > "1
+Verify summary sheet values
+Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md
+Completed task
+Completed task
+Completed task
+4 Shared files
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:16]
+T Ran skill: xlsx v
+Request
+{
+۹۱۱۳ Drakes
+1
+Response
+Launching skill: anthropic-skills:xlsx
+Build and recalculate the spreadsheet v
+Hyun UpenpyazL برد ce wurnuuun
+from openpyxl.styles import Font, Alignment, PatternFill, Border, Side ۱
+from openpyxl.worksheet.datavalidation import DataValidation
+from openpyxl.utils import get_column_letter
+NOV = قابل بارگذاری نبود" ents "مشامهده‌نشده - صفحه پورتال از محیط ایک
+UNR = حرنشده" (Unresolved)"
+RCM = "https://rc.majlis.ir/fa/law/show/99652"
+۱۸۷۱۱۵۲۴ S فابل باز شدن نود : مفل ار" eens (ساید مرکز پژوهش‌های مجلس) از این ILA من رسمی
+رسمی تطبیق داده شود Gis و پیش از ارسال باید با Gol ۲.بر اساس مفاد شناخته‌شده قانون
+WBAPI = "https://api.worldbank.org/v2/country/IRN/indicator/{}?format=json&mrv=3"
+S_TAS = "https: //www. tasnimnews.ir/fa/news/1405/03/12/3606402/"
+S_UNODC = "https://www.unodc.org/documents/corruption/WG-
+Verify summary sheet values
+Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md
+Completed task
+° V
+
+[05:18]
+Ran skill: xlsx v
+Request
+{
+"skill": "xlsx"
+1
+Response
+Launching skill: anthropic-skills:xlsx
+Build and recalculate the spreadsheet v
+58 = "https ://www.worldbank.org/ext/en/country/iran". ۱
+0612۷۱۰ اطلاعات کشور (Country Information)" ۱
+02-7۲. نهاد تدارکات و قانون (PPA & Procurement Law)"
+68-1۲۰ تد ارکات الکترونیکی (eProyurement)"
+64-۲۲۰ ابر پود» رقایت و شنافیت 2b ارزش در (VFM, Competition & Transparency)"
+06521۵۰ شاخص‌های چرخه تدارکات (Procurement Cycle Metrics)"
+rows = ۲
+# (section, field, proposed, source, date, conf, notes)
+(C1,"Country name","Iran, Islamic
+Rep.", "https: //datahelpdesk.worldbank. org/knowledgebase/articles/906519-world-bank-
+Verify summary sheet values
+Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md
+Completed task
+° V
+
+[05:20]
+Ran skill: xlsx v
+Request
+{
+
+"skill": "xlsx"
+
+1
+Response
+Launching skill: anthropic-skills:xlsx
+
+Build and recalculate the spreadsheet v
+از طریق ۱۲۰۲۱۲۰۲۰ wu sous ور جرا
+(C2,"Public Procurement Agency name","No single central PPA identified. Functions are
+split: Ministry of Economic Affairs and Finance (MEFA) — announces annual transaction ۱
+thresholds; Plan and Budget Organization (PBO) — National Tender Information Database (Law
+on Tenders Art. 23) and techni /noris regulations; e-Commerce Development Center
+(Ministry of Industry, Mine an rade) — operates SETAD.",S_UNODC+" ; "+RCM,"—","joi","as
+ترکیب نهادی باید با مقام رسمی ایرانی با متن قانون تأیبد شود. طبق گزارش ۲۰۲۰ بانک جهانی.
+قکیده بود Aras ر اابطی aan ۷۰9۵ و((له یرارق در 0999 جمع‌آآوری دادم
+(C2,"Public Procurement Agency ۷۵۵9۵۳ چون نهاد واحدی وجود ندارد» نشانی ۲-۷۱-۱۷ رلالار
+:و احدی هم نیست. نشانی‌های مرتبط setadiran.ir و (سامانه ستاد) iets.mporg.ir پایگاه ملی)
+اطلاع رسانی مناقصات» تأییدنشده (۰۲(,
+(C2,"Is PPA a Central Purchasing Body (CPB)?",UNR,"—","—","—",""),
+
+Verify summary sheet values
+
+Created GPPD_Iran_update_request.md
+
+Edited GPPD_Iran_update_request.md
+
+Completed task
+
+[05:22]
+Ran skill: xlsx v
+Request
+{
+"skill": "xlsx"
+1
+Response
+Launching skill: anthropic-skills:xlsx
+Build and recalculate the spreadsheet ۲
+awards”, "Number OT aWards ۲۵ SMES”,"ValUe OT aWards TO SMES (USU)","NUMber oT aWaras Under
+framework agreements","Value of awards under framework agreements (USD)","Number of awards
+evaluated on MEAT","Value of awards evaluated on MEAT (USD)","Number of awards evaluated
+on Lowest Price","Value of awards evaluated on Lowest Price (USD)","Avg. bidders per
+tender — goods","Avg. bidders tender — works","Avg. bidders per tender —
+services","Number of accepted/jfistified complaints", "Number of rejected/unjustified
+complaints","Number of complaints under investigation","Complaint resolution period (avg.
+days)","Number of cancelled procurement procedures","Published public procurement annual
+reports","Procurement statistics"]
+for f in C4f:
+note=""
+if f in ("Number of annual tenders","Procurement statistics"):
+۸۵1۵2۷۱۳۸ سرنخ (تانندنشده» مثیم غنررسمی): برای سال ۱۴۰۲ بیش از ۲۱۴ هزار خرید ک‌چک.
+Verify summary sheet values
+Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md
+Completed task
+
+[05:24]
+i
+"skill": "xlsx"
+t
+Response
+Launching skill: anthropic-skills:xlsx
+Build and recalculate the spreadsheet v
+108
+{
+"status": "success",
+"total_errors": 0,
+"error_summary": {},
+"total_formulas": 16
+t
+Shell cwd was reset to /home/claude |
+Verify summary sheet values
+Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md
+Completed task
+Completed task
+Completed task
+& Shared files v
+
+[05:26]
+Build and recalculate the spreadsheet v
+108
+{
+"status": "success",
+"total_errors": 0,
+"error_summary": {},
+"total_formulas": 16
+}
+Shell cwd was reset to /home/claude
+Verify summary sheet values v
+s=load_workbook(' /mnt/user-data/outputs/GPPD_Iran_profile_update.xlsx' ,data_only=True)
+['ecus!]
+for r in s.iter_rows(min_row=3,max_row=16,values_only=True): print(r)"
+Output
+(None ,'s'ae5! ,'wsLs') x
+(None ,108 ,'ousU200c\ uj) 2 GLeus Js!)
+(Qn 922 Psi) wiley) (hy eo) 5) 41)
+(None ,15 , "bogie Glinabl Ly solyidsy jy! aie!)
+Created GPPD_Iran_update_request.md
+Edited GPPD_Iran_update_request.md
+Completed task
+Completed task
+
+[05:28]
+(۰۴۱ ارزش در برابر «Jey رقابت و شنافیت ,'(VfM, Competition & Transparency) 37 ,37(
+(۰۵۱ شاخص۱02006۷های چرخه تدارکات ,'(Procurement Cycle Metrics) 2 ,2(
+Created GPPD_Iran_update_request.md 2
+OC Edited GPPD_Iran_update_request.md
+Completed task =8
+Completed task =8
+Completed task =8
+Shared files 2
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:32]
+Response
+Updated task #3 status
+Completed task
+Completed task
+Shared files
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:34]
+Completed task v
+Request
+{
+"status": "completed",
+"taskId": "4"
+1
+Response
+Updated task #4 status
+Completed task
+Shared files
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:36]
+Request
+{
+"status": "completed",
+"taskId": "4"
+1
+Response
+Updated task #4 status
+Completed task v
+Request
+{
+"status": "completed",
+"taskId": "5"
+1
+Response
+Updated task #5 status
+2 9
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:38]
+“taskId": "4"
+1
+Response
+Updated task #4 status
+Completed task v =8
+Request
+{
+"status": "completed",
+"taskId": "5"
+1
+Response
+Updated task #5 status
+Shared files 2
+[The Farsi response transcribed at 01:20 reappears.]
+
+[05:40–05:41.3 — ending view]
+[Completed task details, “Shared files”, and the Farsi response remain visible. The pause notice continues to cover lower content.]
+
+END OF VISIBLE RECORDING
